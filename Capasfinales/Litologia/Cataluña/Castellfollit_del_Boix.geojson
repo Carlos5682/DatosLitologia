@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Castellfollit_del_Boix",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3620378.998914999887347, 2108001.622084999457002 ], [ 3633439.896084999665618, 2108001.622084999457002 ], [ 3633439.896084999665618, 2093981.215815000236034 ], [ 3620378.998914999887347, 2093981.215815000236034 ], [ 3620378.998914999887347, 2108001.622084999457002 ] ] ] } }
+]
+}

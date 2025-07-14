@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Passanant_i_Belltall",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3581308.771305000409484, 2093477.728295000270009 ], [ 3590411.853994999080896, 2093477.728295000270009 ], [ 3590411.853994999080896, 2084979.575805000960827 ], [ 3581308.771305000409484, 2084979.575805000960827 ], [ 3581308.771305000409484, 2093477.728295000270009 ] ] ] } }
+]
+}

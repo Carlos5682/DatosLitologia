@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Prats_de_Lluçanès",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3655918.273249999154359, 2137705.33845000108704 ], [ 3662525.828750000800937, 2137705.33845000108704 ], [ 3662525.828750000800937, 2131161.215650000143796 ], [ 3655918.273249999154359, 2131161.215650000143796 ], [ 3655918.273249999154359, 2137705.33845000108704 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Albagés,_L'",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3543385.04338000016287, 2089661.905820000451058 ], [ 3552020.801419998984784, 2089661.905820000451058 ], [ 3552020.801419998984784, 2081442.853680000174791 ], [ 3543385.04338000016287, 2081442.853680000174791 ], [ 3543385.04338000016287, 2089661.905820000451058 ] ] ] } }
+]
+}

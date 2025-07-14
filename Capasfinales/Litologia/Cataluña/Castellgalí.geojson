@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Castellgalí",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3634793.714369999244809, 2103884.238229999318719 ], [ 3643957.802029998973012, 2103884.238229999318719 ], [ 3643957.802029998973012, 2097427.595070000737906 ], [ 3634793.714369999244809, 2097427.595070000737906 ], [ 3634793.714369999244809, 2103884.238229999318719 ] ] ] } }
+]
+}

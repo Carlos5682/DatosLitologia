@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Sant_Pere_Sallavinera",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3613889.672310000285506, 2115486.731089999899268 ], [ 3621988.09069, 2115486.731089999899268 ], [ 3621988.09069, 2108049.77470999956131 ], [ 3613889.672310000285506, 2108049.77470999956131 ], [ 3613889.672310000285506, 2115486.731089999899268 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Riudaura",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3685508.93989, 2156758.812709999270737 ], [ 3697557.638109999708831, 2156758.812709999270737 ], [ 3697557.638109999708831, 2148521.842389999888837 ], [ 3685508.93989, 2148521.842389999888837 ], [ 3685508.93989, 2156758.812709999270737 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Rellinars",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3643265.502935000695288, 2099516.917164999060333 ], [ 3650657.067765000276268, 2099516.917164999060333 ], [ 3650657.067765000276268, 2092958.740635000867769 ], [ 3643265.502935000695288, 2092958.740635000867769 ], [ 3643265.502935000695288, 2099516.917164999060333 ] ] ] } }
+]
+}

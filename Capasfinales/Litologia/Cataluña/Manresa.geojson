@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Manresa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3633999.566189999692142, 2110943.266609999351203 ], [ 3644828.773410000838339, 2110943.266609999351203 ], [ 3644828.773410000838339, 2100369.935689999721944 ], [ 3633999.566189999692142, 2100369.935689999721944 ], [ 3633999.566189999692142, 2110943.266609999351203 ] ] ] } }
+]
+}

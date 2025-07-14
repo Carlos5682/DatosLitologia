@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Albi,_L'",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3557148.026914999354631, 2087642.446584999095649 ], [ 3565923.969384999480098, 2087642.446584999095649 ], [ 3565923.969384999480098, 2077924.244715 ], [ 3557148.026914999354631, 2077924.244715 ], [ 3557148.026914999354631, 2087642.446584999095649 ] ] ] } }
+]
+}

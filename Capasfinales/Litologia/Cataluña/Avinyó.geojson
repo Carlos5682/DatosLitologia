@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Avinyó",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3646120.186505001038313, 2128903.459695000201464 ], [ 3660270.737895000725985, 2128903.459695000201464 ], [ 3660270.737895000725985, 2110629.618005 ], [ 3646120.186505001038313, 2110629.618005 ], [ 3646120.186505001038313, 2128903.459695000201464 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Olvan",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3645529.16897, 2147878.858130000531673 ], [ 3656083.938330000266433, 2147878.858130000531673 ], [ 3656083.938330000266433, 2134012.743270000442863 ], [ 3645529.16897, 2134012.743270000442863 ], [ 3645529.16897, 2147878.858130000531673 ] ] ] } }
+]
+}

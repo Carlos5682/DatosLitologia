@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Alpens",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3662797.128584999591112, 2150662.755915001034737 ], [ 3670162.710315000265837, 2150662.755915001034737 ], [ 3670162.710315000265837, 2144022.556685000658035 ], [ 3662797.128584999591112, 2144022.556685000658035 ], [ 3662797.128584999591112, 2150662.755915001034737 ] ] ] } }
+]
+}

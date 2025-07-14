@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Navàs",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3625559.828045000322163, 2132298.820655000396073 ], [ 3649460.096254999749362, 2132298.820655000396073 ], [ 3649460.096254999749362, 2117896.330245000310242 ], [ 3625559.828045000322163, 2117896.330245000310242 ], [ 3625559.828045000322163, 2132298.820655000396073 ] ] ] } }
+]
+}

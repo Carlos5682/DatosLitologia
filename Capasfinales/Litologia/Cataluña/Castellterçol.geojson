@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Castellterçol",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3656962.298709999769926, 2111104.527690000832081 ], [ 3667523.741289999336004, 2111104.527690000832081 ], [ 3667523.741289999336004, 2100835.450510000810027 ], [ 3656962.298709999769926, 2100835.450510000810027 ], [ 3656962.298709999769926, 2111104.527690000832081 ] ] ] } }
+]
+}

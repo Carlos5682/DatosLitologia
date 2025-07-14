@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Santa_Maria_de_Merlès",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3646267.598160000517964, 2142864.511840000748634 ], [ 3661353.609340000897646, 2142864.511840000748634 ], [ 3661353.609340000897646, 2123858.130160000175238 ], [ 3646267.598160000517964, 2123858.130160000175238 ], [ 3646267.598160000517964, 2142864.511840000748634 ] ] ] } }
+]
+}

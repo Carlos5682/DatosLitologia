@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Guimerà",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3580911.020440000109375, 2099185.70475999917835 ], [ 3588908.56716, 2099185.70475999917835 ], [ 3588908.56716, 2088173.133839999325573 ], [ 3580911.020440000109375, 2088173.133839999325573 ], [ 3580911.020440000109375, 2099185.70475999917835 ] ] ] } }
+]
+}

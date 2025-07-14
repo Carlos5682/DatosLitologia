@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Artés",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3645286.344629999250174, 2116232.095569999888539 ], [ 3658074.979970000684261, 2116232.095569999888539 ], [ 3658074.979970000684261, 2109288.968629999086261 ], [ 3645286.344629999250174, 2109288.968629999086261 ], [ 3645286.344629999250174, 2116232.095569999888539 ] ] ] } }
+]
+}

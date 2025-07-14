@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Pira",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3581342.438925, 2075335.981896510580555 ], [ 3581342.438925, 2081116.054974999278784 ], [ 3585986.594374999403954, 2081116.054974999278784 ], [ 3585986.594374999403954, 2075179.57052499987185 ], [ 3581391.594807446934283, 2075179.57052499987185 ], [ 3581342.438925, 2075335.981896510580555 ] ] ] } },
+{ "type": "Feature", "properties": { "LITOLOGIA": "Gravas, conglomerados, arenas y limos", "color": "#ffe6bf" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3581391.594807446934283, 2075179.57052499987185 ], [ 3581342.438925, 2075179.57052499987185 ], [ 3581342.438925, 2075335.981896510580555 ], [ 3581391.594807446934283, 2075179.57052499987185 ] ] ] } }
+]
+}

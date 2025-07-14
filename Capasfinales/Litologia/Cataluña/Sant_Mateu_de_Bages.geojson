@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Sant_Mateu_de_Bages",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3617652.551845000125468, 2126262.955155001021922 ], [ 3638390.427055000327528, 2126262.955155001021922 ], [ 3638390.427055000327528, 2110002.700745000503957 ], [ 3617652.551845000125468, 2110002.700745000503957 ], [ 3617652.551845000125468, 2126262.955155001021922 ] ] ] } }
+]
+}

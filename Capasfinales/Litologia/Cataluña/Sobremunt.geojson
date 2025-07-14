@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Sobremunt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3667984.782149999868125, 2138641.281949999276549 ], [ 3674575.104850000236183, 2138641.281949999276549 ], [ 3674575.104850000236183, 2132924.167049999814481 ], [ 3667984.782149999868125, 2132924.167049999814481 ], [ 3667984.782149999868125, 2138641.281949999276549 ] ] ] } }
+]
+}

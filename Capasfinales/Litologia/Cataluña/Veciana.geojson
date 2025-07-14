@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Veciana",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3603640.726805000565946, 2107642.997094999067485 ], [ 3616585.085894999094307, 2107642.997094999067485 ], [ 3616585.085894999094307, 2096828.081405 ], [ 3603640.726805000565946, 2096828.081405 ], [ 3603640.726805000565946, 2107642.997094999067485 ] ] ] } }
+]
+}

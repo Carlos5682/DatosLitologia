@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Mura",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3645134.439255, 2106312.053444999270141 ], [ 3657275.293045000173151, 2106312.053444999270141 ], [ 3657275.293045000173151, 2094626.451854999177158 ], [ 3645134.439255, 2094626.451854999177158 ], [ 3645134.439255, 2106312.053444999270141 ] ] ] } }
+]
+}

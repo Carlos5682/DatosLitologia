@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Castellbell_i_el_Vilar",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3635587.546885, 2092175.582320410991088 ], [ 3635587.546885, 2100320.267114999238402 ], [ 3646053.004615, 2100320.267114999238402 ], [ 3646053.004615, 2092100.103885000105947 ], [ 3635662.009135410189629, 2092100.103885000105947 ], [ 3635587.546885, 2092175.582320410991088 ] ] ] } },
+{ "type": "Feature", "properties": { "LITOLOGIA": "Gravas, conglomerados, arenas y limos", "color": "#ffe6bf" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3635662.009135410189629, 2092100.103885000105947 ], [ 3635587.546885, 2092100.103885000105947 ], [ 3635587.546885, 2092175.582320410991088 ], [ 3635662.009135410189629, 2092100.103885000105947 ] ] ] } }
+]
+}

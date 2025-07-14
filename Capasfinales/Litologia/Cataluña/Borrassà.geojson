@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Borrassà",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3733988.5211, 2153713.356599999126047 ], [ 3738765.681099999230355, 2153713.356599999126047 ], [ 3738765.681099999230355, 2148505.005400000605732 ], [ 3733988.5211, 2148505.005400000605732 ], [ 3733988.5211, 2153713.356599999126047 ] ] ] } }
+]
+}

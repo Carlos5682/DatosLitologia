@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Sant_Fruitós_de_Bages",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3639373.931460000574589, 2113232.640039999037981 ], [ 3647847.30284, 2113232.640039999037981 ], [ 3647847.30284, 2104164.708960000425577 ], [ 3639373.931460000574589, 2104164.708960000425577 ], [ 3639373.931460000574589, 2113232.640039999037981 ] ] ] } }
+]
+}

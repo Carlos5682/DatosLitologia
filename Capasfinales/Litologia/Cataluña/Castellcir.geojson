@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Castellcir",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3656339.103699999395758, 2113347.041599999647588 ], [ 3672252.858699999283999, 2113347.041599999647588 ], [ 3672252.858699999283999, 2102342.274100000504404 ], [ 3656339.103699999395758, 2102342.274100000504404 ], [ 3656339.103699999395758, 2113347.041599999647588 ] ] ] } }
+]
+}

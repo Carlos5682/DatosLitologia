@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Roda_de_Ter",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3681275.830865000840276, 2131330.171435000840575 ], [ 3683734.063235000241548, 2131330.171435000840575 ], [ 3683734.063235000241548, 2128274.793264999520034 ], [ 3681275.830865000840276, 2128274.793264999520034 ], [ 3681275.830865000840276, 2131330.171435000840575 ] ] ] } }
+]
+}

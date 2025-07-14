@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Santpedor",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3637748.337660000659525, 2115952.235140000469983 ], [ 3644540.028539999388158, 2115952.235140000469983 ], [ 3644540.028539999388158, 2109393.086059999652207 ], [ 3637748.337660000659525, 2109393.086059999652207 ], [ 3637748.337660000659525, 2115952.235140000469983 ] ] ] } }
+]
+}

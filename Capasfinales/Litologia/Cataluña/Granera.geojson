@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Granera",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3654250.393605001270771, 2107962.548595 ], [ 3664474.604094998911023, 2107962.548595 ], [ 3664474.604094998911023, 2100681.506404999643564 ], [ 3654250.393605001270771, 2100681.506404999643564 ], [ 3654250.393605001270771, 2107962.548595 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Vidrà",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3679321.110345000401139, 2152555.929154999554157 ], [ 3692336.715154999867082, 2152555.929154999554157 ], [ 3692336.715154999867082, 2142090.860345000401139 ], [ 3679321.110345000401139, 2142090.860345000401139 ], [ 3679321.110345000401139, 2152555.929154999554157 ] ] ] } }
+]
+}

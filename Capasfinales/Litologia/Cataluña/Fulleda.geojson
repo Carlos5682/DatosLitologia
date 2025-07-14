@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Fulleda",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3566342.391550000756979, 2087884.233349999180064 ], [ 3575373.79445, 2087884.233349999180064 ], [ 3575373.79445, 2081106.794949999311939 ], [ 3566342.391550000756979, 2081106.794949999311939 ], [ 3566342.391550000756979, 2087884.233349999180064 ] ] ] } }
+]
+}

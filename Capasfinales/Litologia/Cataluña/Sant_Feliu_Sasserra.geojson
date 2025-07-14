@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Sant_Feliu_Sasserra",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3652916.361549999099225, 2132793.371950000990182 ], [ 3661108.613050001207739, 2132793.371950000990182 ], [ 3661108.613050001207739, 2122527.320049998816103 ], [ 3652916.361549999099225, 2122527.320049998816103 ], [ 3652916.361549999099225, 2132793.371950000990182 ] ] ] } }
+]
+}

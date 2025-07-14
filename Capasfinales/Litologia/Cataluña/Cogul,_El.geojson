@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Cogul,_El",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3539072.081229999195784, 2091153.429269999731332 ], [ 3546140.908070000354201, 2091153.429269999731332 ], [ 3546140.908070000354201, 2082969.640930000226945 ], [ 3539072.081229999195784, 2082969.640930000226945 ], [ 3539072.081229999195784, 2091153.429269999731332 ] ] ] } }
+]
+}

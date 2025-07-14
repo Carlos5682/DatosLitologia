@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Sant_Salvador_de_Guardiola",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3627596.324889999814332, 2106423.049710000865161 ], [ 3639641.193310000933707, 2106423.049710000865161 ], [ 3639641.193310000933707, 2096412.491090000607073 ], [ 3627596.324889999814332, 2096412.491090000607073 ], [ 3627596.324889999814332, 2106423.049710000865161 ] ] ] } }
+]
+}

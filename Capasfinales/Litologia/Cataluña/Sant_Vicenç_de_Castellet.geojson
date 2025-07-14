@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Sant_Vicenç_de_Castellet",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3636134.635694999713451, 2103370.398804999422282 ], [ 3649492.708605000283569, 2103370.398804999422282 ], [ 3649492.708605000283569, 2096287.636894999770448 ], [ 3636134.635694999713451, 2096287.636894999770448 ], [ 3636134.635694999713451, 2103370.398804999422282 ] ] ] } }
+]
+}

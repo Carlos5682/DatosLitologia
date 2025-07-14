@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Sant_Bartomeu_del_Grau",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3665460.105184999294579, 2136347.838115000165999 ], [ 3674490.275615000165999, 2136347.838115000165999 ], [ 3674490.275615000165999, 2122085.257185 ], [ 3665460.105184999294579, 2122085.257185 ], [ 3665460.105184999294579, 2136347.838115000165999 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Olost",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3658443.683565, 2137986.205435000360012 ], [ 3670863.583134999498725, 2137986.205435000360012 ], [ 3670863.583134999498725, 2130001.098665000870824 ], [ 3658443.683565, 2130001.098665000870824 ], [ 3658443.683565, 2137986.205435000360012 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Bisbal_de_Falset,_La",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3539767.513684999197721, 2071674.019315000856295 ], [ 3545825.870115000754595, 2071674.019315000856295 ], [ 3545825.870115000754595, 2064657.744984999066219 ], [ 3539767.513684999197721, 2064657.744984999066219 ], [ 3539767.513684999197721, 2071674.019315000856295 ] ] ] } }
+]
+}

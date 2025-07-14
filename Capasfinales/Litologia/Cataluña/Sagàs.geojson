@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Sagàs",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3646483.63376999925822, 2144556.64043000061065 ], [ 3660228.39102999959141, 2144556.64043000061065 ], [ 3660228.39102999959141, 2131578.460770000703633 ], [ 3646483.63376999925822, 2131578.460770000703633 ], [ 3646483.63376999925822, 2144556.64043000061065 ] ] ] } }
+]
+}

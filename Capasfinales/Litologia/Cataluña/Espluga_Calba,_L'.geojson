@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Espluga_Calba,_L'",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3565058.293420000467449, 2092037.481979999225587 ], [ 3573302.87938000028953, 2092037.481979999225587 ], [ 3573302.87938000028953, 2084512.000520000699908 ], [ 3565058.293420000467449, 2084512.000520000699908 ], [ 3565058.293420000467449, 2092037.481979999225587 ] ] ] } }
+]
+}

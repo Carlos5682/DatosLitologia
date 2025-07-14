@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Navata",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3727293.04397999914363, 2156230.76911999983713 ], [ 3734144.813620000611991, 2156230.76911999983713 ], [ 3734144.813620000611991, 2146036.485280000139028 ], [ 3727293.04397999914363, 2146036.485280000139028 ], [ 3727293.04397999914363, 2156230.76911999983713 ] ] ] } }
+]
+}

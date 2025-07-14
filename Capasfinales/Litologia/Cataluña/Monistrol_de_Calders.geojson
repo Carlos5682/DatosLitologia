@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Monistrol_de_Calders",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3651737.301749998703599, 2112475.789250001311302 ], [ 3660102.576449999585748, 2112475.789250001311302 ], [ 3660102.576449999585748, 2103272.679749999195337 ], [ 3651737.301749998703599, 2103272.679749999195337 ], [ 3651737.301749998703599, 2112475.789250001311302 ] ] ] } }
+]
+}

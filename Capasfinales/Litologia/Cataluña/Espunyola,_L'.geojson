@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Espunyola,_L'",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3628785.630154998973012, 2146951.615945000201464 ], [ 3643978.218344999477267, 2146951.615945000201464 ], [ 3643978.218344999477267, 2135673.861054999753833 ], [ 3628785.630154998973012, 2135673.861054999753833 ], [ 3628785.630154998973012, 2146951.615945000201464 ] ] ] } }
+]
+}

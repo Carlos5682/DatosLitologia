@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Forès",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3584077.426494999788702, 2090101.097004999173805 ], [ 3591785.353604999370873, 2090101.097004999173805 ], [ 3591785.353604999370873, 2083119.567695000441745 ], [ 3584077.426494999788702, 2083119.567695000441745 ], [ 3584077.426494999788702, 2090101.097004999173805 ] ] ] } }
+]
+}

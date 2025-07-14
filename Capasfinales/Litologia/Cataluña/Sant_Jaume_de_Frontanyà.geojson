@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Sant_Jaume_de_Frontanyà",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Calizas detríticas, calcarenitas, margas, arcillas y calizas", "color": "#ffd37f" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3657919.313240000978112, 2159670.377580048516393 ], [ 3657919.313240000978112, 2159715.599959999322891 ], [ 3657969.782497160602361, 2159715.599959999322891 ], [ 3657919.313240000978112, 2159670.377580048516393 ] ] ] } },
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3657969.782497160602361, 2159715.599959999322891 ], [ 3665358.36115999892354, 2159715.599959999322891 ], [ 3665358.36115999892354, 2151787.682040000334382 ], [ 3657919.313240000978112, 2151787.682040000334382 ], [ 3657919.313240000978112, 2159670.377580048516393 ], [ 3657969.782497160602361, 2159715.599959999322891 ] ] ] } }
+]
+}

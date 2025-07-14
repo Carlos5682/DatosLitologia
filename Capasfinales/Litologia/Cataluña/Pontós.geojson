@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Pontós",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3731693.390774999279529, 2150800.827625000383705 ], [ 3737527.403724999632686, 2150800.827625000383705 ], [ 3737527.403724999632686, 2144309.465475000906736 ], [ 3731693.390774999279529, 2144309.465475000906736 ], [ 3731693.390774999279529, 2150800.827625000383705 ] ] ] } }
+]
+}

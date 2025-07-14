@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Puig-reig",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3640594.011724999640137, 2138652.575474999379367 ], [ 3652634.488574999850243, 2138652.575474999379367 ], [ 3652634.488574999850243, 2123903.110225 ], [ 3640594.011724999640137, 2123903.110225 ], [ 3640594.011724999640137, 2138652.575474999379367 ] ] ] } }
+]
+}

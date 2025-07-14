@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Santa_Eulàlia_de_Riuprimer",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3666741.619780000299215, 2126862.168719999492168 ], [ 3675407.046420000493526, 2126862.168719999492168 ], [ 3675407.046420000493526, 2120476.480179999023676 ], [ 3666741.619780000299215, 2120476.480179999023676 ], [ 3666741.619780000299215, 2126862.168719999492168 ] ] ] } }
+]
+}

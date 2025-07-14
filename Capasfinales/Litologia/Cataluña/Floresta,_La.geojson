@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Floresta,_La",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3560149.774259998928756, 2093779.199840000364929 ], [ 3564148.763540000189096, 2093779.199840000364929 ], [ 3564148.763540000189096, 2085076.703959999140352 ], [ 3560149.774259998928756, 2085076.703959999140352 ], [ 3560149.774259998928756, 2093779.199840000364929 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Navarcles",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3645107.72456, 2111355.443639999255538 ], [ 3649005.686839999631047, 2111355.443639999255538 ], [ 3649005.686839999631047, 2106355.771560000255704 ], [ 3645107.72456, 2106355.771560000255704 ], [ 3645107.72456, 2111355.443639999255538 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Argençola",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3600394.874180000275373, 2101501.66512 ], [ 3614887.847219999879599, 2101501.66512 ], [ 3614887.847219999879599, 2088787.871680000564083 ], [ 3600394.874180000275373, 2088787.871680000564083 ], [ 3600394.874180000275373, 2101501.66512 ] ] ] } }
+]
+}

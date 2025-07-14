@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Muntanyola",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3661730.198965, 2132641.185334999114275 ], [ 3677062.377535000443459, 2132641.185334999114275 ], [ 3677062.377535000443459, 2115036.859765000641346 ], [ 3661730.198965, 2115036.859765000641346 ], [ 3661730.198965, 2132641.185334999114275 ] ] ] } }
+]
+}

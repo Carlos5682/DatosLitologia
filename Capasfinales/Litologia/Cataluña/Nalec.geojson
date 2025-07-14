@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Nalec",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3576626.556049999780953, 2096942.598849999718368 ], [ 3580925.225149999372661, 2096942.598849999718368 ], [ 3580925.225149999372661, 2089122.681549998931587 ], [ 3576626.556049999780953, 2089122.681549998931587 ], [ 3576626.556049999780953, 2096942.598849999718368 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Cervià_de_les_Garrigues",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3549202.226910000201315, 2088307.959190000314265 ], [ 3560613.024489999283105, 2088307.959190000314265 ], [ 3560613.024489999283105, 2079068.618310000281781 ], [ 3549202.226910000201315, 2079068.618310000281781 ], [ 3549202.226910000201315, 2088307.959190000314265 ] ] ] } }
+]
+}

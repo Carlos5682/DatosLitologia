@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Santa_Maria_d'Oló",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3651186.750005000736564, 2127222.741194999311119 ], [ 3670242.609294999856502, 2127222.741194999311119 ], [ 3670242.609294999856502, 2111752.519805000629276 ], [ 3651186.750005000736564, 2111752.519805000629276 ], [ 3651186.750005000736564, 2127222.741194999311119 ] ] ] } }
+]
+}
