@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Valle_de_Villaverde",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Dolomías, calizas y margas. Areniscas", "color": "#00a9e6" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3242738.948564999736845, 2336189.495034999214113 ], [ 3249708.762534999288619, 2336189.495034999214113 ], [ 3249708.762534999288619, 2326598.962265000678599 ], [ 3242738.948564999736845, 2326598.962265000678599 ], [ 3242738.948564999736845, 2336189.495034999214113 ] ] ] } }
+]
+}
