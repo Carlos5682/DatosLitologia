@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Albuixech",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Gravas, conglomerados, arenas y limos", "color": "#ffe6bf" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3430330.0183300008066, 1890063.401669998886064 ], [ 3434156.30286999931559, 1890063.401669998886064 ], [ 3434156.30286999931559, 1886480.830230000196025 ], [ 3430330.0183300008066, 1886480.830230000196025 ], [ 3430330.0183300008066, 1890063.401669998886064 ] ] ] } }
+]
+}

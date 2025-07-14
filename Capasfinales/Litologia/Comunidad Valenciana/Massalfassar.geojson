@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Massalfassar",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Gravas, conglomerados, arenas y limos", "color": "#ffe6bf" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3430733.606679999735206, 1891211.66412 ], [ 3434527.275520001072437, 1891211.66412 ], [ 3434527.275520001072437, 1887954.687480000546202 ], [ 3430733.606679999735206, 1887954.687480000546202 ], [ 3430733.606679999735206, 1891211.66412 ] ] ] } }
+]
+}

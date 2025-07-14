@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Segart",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Calizas, dolomías y margas. Areniscas y conglomerados", "color": "#9bdfff" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3426640.79608520725742, 1901460.30907 ], [ 3426411.152669999282807, 1901460.30907 ], [ 3426411.152669999282807, 1902183.390420637559146 ], [ 3426640.79608520725742, 1901460.30907 ] ] ] } },
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, calizas, yesos y arcillas versicolores", "color": "#ffbebe" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3426411.152669999282807, 1902183.390420637559146 ], [ 3426411.152669999282807, 1906192.738329999614507 ], [ 3430731.166129999328405, 1906192.738329999614507 ], [ 3430731.166129999328405, 1901460.30907 ], [ 3426640.79608520725742, 1901460.30907 ], [ 3426411.152669999282807, 1902183.390420637559146 ] ] ] } }
+]
+}

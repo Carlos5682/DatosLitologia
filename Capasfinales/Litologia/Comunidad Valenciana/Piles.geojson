@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Piles",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Gravas, conglomerados, arenas y limos", "color": "#ffe6bf" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3438496.558625000528991, 1821943.556374999694526 ], [ 3442589.071075000800192, 1821943.556374999694526 ], [ 3442589.071075000800192, 1819178.440824999473989 ], [ 3438496.558625000528991, 1819178.440824999473989 ], [ 3438496.558625000528991, 1821943.556374999694526 ] ] ] } }
+]
+}
