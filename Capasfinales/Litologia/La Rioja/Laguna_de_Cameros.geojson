@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Laguna_de_Cameros",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Calizas, dolomías y margas. Areniscas y conglomerados", "color": "#9bdfff" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3280817.962604999542236, 2210358.669195 ], [ 3290424.465095000341535, 2210358.669195 ], [ 3290424.465095000341535, 2196721.893704999238253 ], [ 3280817.962604999542236, 2196721.893704999238253 ], [ 3280817.962604999542236, 2210358.669195 ] ] ] } }
+]
+}

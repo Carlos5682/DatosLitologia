@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Villarejo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3258720.119651785120368, 2227968.824955221265554 ], [ 3258278.676075000781566, 2228048.727550322655588 ], [ 3258278.676075000781566, 2234432.740125 ], [ 3264231.438225000631064, 2234432.740125 ], [ 3264231.438225000631064, 2227681.796574999112636 ], [ 3259757.692683252040297, 2227681.796574999112636 ], [ 3258720.119651785120368, 2227968.824955221265554 ] ] ] } },
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, calizas, yesos y arcillas versicolores", "color": "#ffbebe" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3258720.119651785120368, 2227968.824955221265554 ], [ 3259757.692683252040297, 2227681.796574999112636 ], [ 3258278.676075000781566, 2227681.796574999112636 ], [ 3258278.676075000781566, 2228048.727550322655588 ], [ 3258720.119651785120368, 2227968.824955221265554 ] ] ] } }
+]
+}

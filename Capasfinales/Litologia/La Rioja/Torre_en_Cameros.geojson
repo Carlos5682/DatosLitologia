@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Torre_en_Cameros",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Calizas, dolomías y margas. Areniscas y conglomerados", "color": "#9bdfff" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3285811.002300000749528, 2215764.841200000606477 ], [ 3292194.597699998877943, 2215764.841200000606477 ], [ 3292194.597699998877943, 2209790.239400000311434 ], [ 3285811.002300000749528, 2209790.239400000311434 ], [ 3285811.002300000749528, 2215764.841200000606477 ] ] ] } }
+]
+}

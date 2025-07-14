@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Sojuela",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3283678.841645000968128, 2228896.500955 ], [ 3292708.064054999034852, 2228896.500955 ], [ 3292708.064054999034852, 2222325.797945000696927 ], [ 3283678.841645000968128, 2222325.797945000696927 ], [ 3283678.841645000968128, 2228896.500955 ] ] ] } }
+]
+}

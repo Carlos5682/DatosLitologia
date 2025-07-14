@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Ajamil_de_Cameros",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Calizas, dolomías y margas. Areniscas y conglomerados", "color": "#9bdfff" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3286194.603275000117719, 2209967.063824999146163 ], [ 3304092.968825000338256, 2209967.063824999146163 ], [ 3304092.968825000338256, 2195004.118074999190867 ], [ 3286194.603275000117719, 2195004.118074999190867 ], [ 3286194.603275000117719, 2209967.063824999146163 ] ] ] } }
+]
+}

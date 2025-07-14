@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Cordovín",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3265856.959275000728667, 2233944.264524999074638 ], [ 3271091.824624999426305, 2233944.264524999074638 ], [ 3271091.824624999426305, 2230877.619175001047552 ], [ 3265856.959275000728667, 2230877.619175001047552 ], [ 3265856.959275000728667, 2233944.264524999074638 ] ] ] } }
+]
+}

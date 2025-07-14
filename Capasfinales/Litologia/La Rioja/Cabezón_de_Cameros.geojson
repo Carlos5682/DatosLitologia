@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Cabezón_de_Cameros",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Calizas, dolomías y margas. Areniscas y conglomerados", "color": "#9bdfff" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3285717.182884999550879, 2210016.36041499953717 ], [ 3291408.306714999489486, 2210016.36041499953717 ], [ 3291408.306714999489486, 2201776.684685000218451 ], [ 3285717.182884999550879, 2201776.684685000218451 ], [ 3285717.182884999550879, 2210016.36041499953717 ] ] ] } }
+]
+}

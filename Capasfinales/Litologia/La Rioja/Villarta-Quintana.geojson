@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Villarta-Quintana",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3243219.999020000454038, 2243358.123380000237375 ], [ 3252643.712579999584705, 2243358.123380000237375 ], [ 3252643.712579999584705, 2232789.316820000763983 ], [ 3243219.999020000454038, 2232789.316820000763983 ], [ 3243219.999020000454038, 2243358.123380000237375 ] ] ] } }
+]
+}

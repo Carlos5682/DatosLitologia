@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "San_Román_de_Cameros",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Calizas, dolomías y margas. Areniscas y conglomerados", "color": "#9bdfff" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3286808.898104999214411, 2217967.958595000207424 ], [ 3301727.343395000323653, 2217967.958595000207424 ], [ 3301727.343395000323653, 2199913.237104998901486 ], [ 3286808.898104999214411, 2199913.237104998901486 ], [ 3286808.898104999214411, 2217967.958595000207424 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Jalón_de_Cameros",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Calizas, dolomías y margas. Areniscas y conglomerados", "color": "#9bdfff" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3288871.477424999233335, 2211584.878774999175221 ], [ 3293651.218975000549108, 2211584.878774999175221 ], [ 3293651.218975000549108, 2206274.435325 ], [ 3288871.477424999233335, 2206274.435325 ], [ 3288871.477424999233335, 2211584.878774999175221 ] ] ] } }
+]
+}
