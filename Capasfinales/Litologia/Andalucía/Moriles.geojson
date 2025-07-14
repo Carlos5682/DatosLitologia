@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Moriles",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3020010.930200000759214, 1723940.88789999904111 ], [ 3029722.81099999928847, 1723940.88789999904111 ], [ 3029722.81099999928847, 1713273.748300000559539 ], [ 3020010.930200000759214, 1713273.748300000559539 ], [ 3020010.930200000759214, 1723940.88789999904111 ] ] ] } }
+]
+}

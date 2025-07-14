@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Jete",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3094890.739315000828356, 1638333.911684999708086 ], [ 3101599.357685000170022, 1638333.911684999708086 ], [ 3101599.357685000170022, 1631027.680415000300854 ], [ 3094890.739315000828356, 1631027.680415000300854 ], [ 3094890.739315000828356, 1638333.911684999708086 ] ] ] } }
+]
+}

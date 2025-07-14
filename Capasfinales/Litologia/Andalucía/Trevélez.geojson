@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Trevélez",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Micaesquistos, filitas, areniscas, mármoles, calizas, dolomías y margas", "color": "#0084a8" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3131452.664349999744445, 1665064.46625 ], [ 3146559.71375000057742, 1665064.46625 ], [ 3146559.71375000057742, 1645280.96355 ], [ 3131452.664349999744445, 1645280.96355 ], [ 3131452.664349999744445, 1665064.46625 ] ] ] } }
+]
+}

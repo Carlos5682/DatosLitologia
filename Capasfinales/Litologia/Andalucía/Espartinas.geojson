@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Espartinas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2888169.795339999720454, 1745381.93826000019908 ], [ 2898389.114059999585152, 1745381.93826000019908 ], [ 2898389.114059999585152, 1737247.362639999017119 ], [ 2888169.795339999720454, 1737247.362639999017119 ], [ 2888169.795339999720454, 1745381.93826000019908 ] ] ] } }
+]
+}

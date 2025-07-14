@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Pórtugos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Micaesquistos, filitas, areniscas, mármoles, calizas, dolomías y margas", "color": "#0084a8" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3129700.725600000936538, 1653346.101400000741705 ], [ 3136828.296700000297278, 1653346.101400000741705 ], [ 3136828.296700000297278, 1642807.835999999428168 ], [ 3129700.725600000936538, 1642807.835999999428168 ], [ 3129700.725600000936538, 1653346.101400000741705 ] ] ] } }
+]
+}

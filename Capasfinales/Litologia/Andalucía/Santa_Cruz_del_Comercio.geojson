@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Santa_Cruz_del_Comercio",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3072075.369914999697357, 1671787.513084999518469 ], [ 3079542.127785000484437, 1671787.513084999518469 ], [ 3079542.127785000484437, 1665132.407314999727532 ], [ 3072075.369914999697357, 1665132.407314999727532 ], [ 3072075.369914999697357, 1671787.513084999518469 ] ] ] } }
+]
+}

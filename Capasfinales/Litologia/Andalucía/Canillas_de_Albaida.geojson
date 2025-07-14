@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Canillas_de_Albaida",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3065586.701895, 1651464.628504999214783 ], [ 3078309.698805001098663, 1651464.628504999214783 ], [ 3078309.698805001098663, 1641170.447095000883564 ], [ 3065586.701895, 1641170.447095000883564 ], [ 3065586.701895, 1651464.628504999214783 ] ] ] } }
+]
+}

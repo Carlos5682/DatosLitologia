@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Villanueva_del_Ariscal",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2889254.589619999285787, 1744500.257980000693351 ], [ 2893783.156779999379069, 1744500.257980000693351 ], [ 2893783.156779999379069, 1741561.071220000740141 ], [ 2889254.589619999285787, 1741561.071220000740141 ], [ 2889254.589619999285787, 1744500.257980000693351 ] ] ] } }
+]
+}

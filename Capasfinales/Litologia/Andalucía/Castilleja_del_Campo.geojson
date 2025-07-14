@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Castilleja_del_Campo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2872033.895084999036044, 1748866.697215000865981 ], [ 2878267.824215000960976, 1748866.697215000865981 ], [ 2878267.824215000960976, 1742648.133185000391677 ], [ 2872033.895084999036044, 1742648.133185000391677 ], [ 2872033.895084999036044, 1748866.697215000865981 ] ] ] } }
+]
+}

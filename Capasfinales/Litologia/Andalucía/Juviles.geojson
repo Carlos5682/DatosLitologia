@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Juviles",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3142325.12042, 1642462.821727000176907 ], [ 3142325.12042, 1642233.108380000805482 ], [ 3141755.895873692817986, 1642233.108380000805482 ], [ 3142325.12042, 1642462.821727000176907 ] ] ] } },
+{ "type": "Feature", "properties": { "LITOLOGIA": "Micaesquistos, filitas, areniscas, mármoles, calizas, dolomías y margas", "color": "#0084a8" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3141755.895873692817986, 1642233.108380000805482 ], [ 3136893.59008, 1642233.108380000805482 ], [ 3136893.59008, 1650216.256020000437275 ], [ 3142325.12042, 1650216.256020000437275 ], [ 3142325.12042, 1642462.821727000176907 ], [ 3141755.895873692817986, 1642233.108380000805482 ] ] ] } }
+]
+}

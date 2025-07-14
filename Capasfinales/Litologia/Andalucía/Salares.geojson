@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Salares",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3065206.953550000209361, 1650776.349850000115111 ], [ 3072038.281349999364465, 1650776.349850000115111 ], [ 3072038.281349999364465, 1643298.839550000382587 ], [ 3065206.953550000209361, 1643298.839550000382587 ], [ 3065206.953550000209361, 1650776.349850000115111 ] ] ] } }
+]
+}

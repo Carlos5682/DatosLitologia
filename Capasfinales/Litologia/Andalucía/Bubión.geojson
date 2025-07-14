@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Bubión",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Micaesquistos, filitas, areniscas, mármoles, calizas, dolomías y margas", "color": "#0084a8" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3123157.687459999229759, 1658148.344640000257641 ], [ 3132357.230140001047403, 1658148.344640000257641 ], [ 3132357.230140001047403, 1643421.2795599992387 ], [ 3123157.687459999229759, 1643421.2795599992387 ], [ 3123157.687459999229759, 1658148.344640000257641 ] ] ] } }
+]
+}

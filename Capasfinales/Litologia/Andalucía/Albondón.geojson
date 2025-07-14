@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Albondón",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Micaesquistos, filitas, areniscas, mármoles, calizas, dolomías y margas", "color": "#0084a8" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3135262.540149999316782, 1637006.621950000990182 ], [ 3143792.7082499996759, 1637006.621950000990182 ], [ 3143792.7082499996759, 1627555.61545 ], [ 3135262.540149999316782, 1627555.61545 ], [ 3135262.540149999316782, 1637006.621950000990182 ] ] ] } }
+]
+}

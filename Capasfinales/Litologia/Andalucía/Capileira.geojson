@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Capileira",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Micaesquistos, filitas, areniscas, mármoles, calizas, dolomías y margas", "color": "#0084a8" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3124599.20450499933213, 1659620.774795000674203 ], [ 3136170.067595000378788, 1659620.774795000674203 ], [ 3136170.067595000378788, 1645214.846505 ], [ 3124599.20450499933213, 1645214.846505 ], [ 3124599.20450499933213, 1659620.774795000674203 ] ] ] } }
+]
+}

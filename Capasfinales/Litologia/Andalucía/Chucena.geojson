@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Chucena",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2863589.648155000526458, 1747504.829545000102371 ], [ 2875277.680744999554008, 1747504.829545000102371 ], [ 2875277.680744999554008, 1738241.983655000571162 ], [ 2863589.648155000526458, 1738241.983655000571162 ], [ 2863589.648155000526458, 1747504.829545000102371 ] ] ] } }
+]
+}
