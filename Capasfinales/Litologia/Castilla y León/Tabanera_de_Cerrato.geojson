@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Tabanera_de_Cerrato",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3150147.737399999052286, 2215865.037200000137091 ], [ 3162738.055400000885129, 2215865.037200000137091 ], [ 3162738.055400000885129, 2204658.966499999165535 ], [ 3150147.737399999052286, 2204658.966499999165535 ], [ 3150147.737399999052286, 2215865.037200000137091 ] ] ] } }
+]
+}

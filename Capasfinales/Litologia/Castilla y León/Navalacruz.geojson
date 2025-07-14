@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Navalacruz",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Otros granitoides", "color": "#ff0080" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3047830.17778, 2059370.011119999457151 ], [ 3063930.010620000306517, 2059370.011119999457151 ], [ 3063930.010620000306517, 2047746.492080000694841 ], [ 3047830.17778, 2047746.492080000694841 ], [ 3047830.17778, 2059370.011119999457151 ] ] ] } }
+]
+}

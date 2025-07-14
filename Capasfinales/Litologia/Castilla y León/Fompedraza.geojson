@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Fompedraza",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3139209.023915000725538, 2160777.15358499949798 ], [ 3146245.975685, 2160777.15358499949798 ], [ 3146245.975685, 2152268.796715001109987 ], [ 3139209.023915000725538, 2152268.796715001109987 ], [ 3139209.023915000725538, 2160777.15358499949798 ] ] ] } }
+]
+}

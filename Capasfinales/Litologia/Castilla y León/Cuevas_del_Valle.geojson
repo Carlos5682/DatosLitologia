@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Cuevas_del_Valle",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Otros granitoides", "color": "#ff0080" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3042127.161295000463724, 2041548.159705 ], [ 3049309.681804999709129, 2041548.159705 ], [ 3049309.681804999709129, 2033821.600995000451803 ], [ 3042127.161295000463724, 2033821.600995000451803 ], [ 3042127.161295000463724, 2041548.159705 ] ] ] } }
+]
+}

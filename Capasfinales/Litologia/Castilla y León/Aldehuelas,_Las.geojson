@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Aldehuelas,_Las",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Calizas, dolomías y margas. Areniscas y conglomerados", "color": "#9bdfff" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3291792.046144999098033, 2189324.319455000106245 ], [ 3302673.380855000112206, 2189324.319455000106245 ], [ 3302673.380855000112206, 2178394.442445000167936 ], [ 3291792.046144999098033, 2178394.442445000167936 ], [ 3291792.046144999098033, 2189324.319455000106245 ] ] ] } }
+]
+}

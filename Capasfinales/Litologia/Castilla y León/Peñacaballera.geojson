@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Peñacaballera",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Otros granitoides", "color": "#ff0080" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2974979.491240000352263, 2059908.78046 ], [ 2979597.33096, 2059908.78046 ], [ 2979597.33096, 2055490.486339999362826 ], [ 2974979.491240000352263, 2055490.486339999362826 ], [ 2974979.491240000352263, 2059908.78046 ] ] ] } }
+]
+}

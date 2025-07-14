@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Santa_María_del_Invierno",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3214798.435954999178648, 2249693.149745000526309 ], [ 3222476.948744999244809, 2249693.149745000526309 ], [ 3222476.948744999244809, 2242278.479955000802875 ], [ 3214798.435954999178648, 2242278.479955000802875 ], [ 3214798.435954999178648, 2249693.149745000526309 ] ] ] } }
+]
+}

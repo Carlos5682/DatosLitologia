@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Bahabón_de_Esgueva",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3180284.47821499966085, 2192583.87788499891758 ], [ 3187618.852885000407696, 2192583.87788499891758 ], [ 3187618.852885000407696, 2184378.795415000990033 ], [ 3180284.47821499966085, 2184378.795415000990033 ], [ 3180284.47821499966085, 2192583.87788499891758 ] ] ] } }
+]
+}

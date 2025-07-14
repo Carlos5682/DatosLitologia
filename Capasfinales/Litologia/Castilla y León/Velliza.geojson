@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Velliza",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3075052.821205000393093, 2181976.659495000727475 ], [ 3082888.904594999738038, 2181976.659495000727475 ], [ 3082888.904594999738038, 2172088.356004999019206 ], [ 3075052.821205000393093, 2172088.356004999019206 ], [ 3075052.821205000393093, 2181976.659495000727475 ] ] ] } }
+]
+}

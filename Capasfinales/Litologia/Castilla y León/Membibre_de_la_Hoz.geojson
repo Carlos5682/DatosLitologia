@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Membibre_de_la_Hoz",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3142895.825404999777675, 2153787.734494999051094 ], [ 3149425.525994999334216, 2153787.734494999051094 ], [ 3149425.525994999334216, 2145777.829605 ], [ 3142895.825404999777675, 2145777.829605 ], [ 3142895.825404999777675, 2153787.734494999051094 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Valdehijaderos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Otros granitoides", "color": "#ff0080" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2977576.342780000530183, 2068646.18762 ], [ 2983249.191620000638068, 2068646.18762 ], [ 2983249.191620000638068, 2062770.727380000986159 ], [ 2977576.342780000530183, 2062770.727380000986159 ], [ 2977576.342780000530183, 2068646.18762 ] ] ] } }
+]
+}

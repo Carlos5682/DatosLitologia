@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Poyales_del_Hoyo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Otros granitoides", "color": "#ff0080" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3031221.094790000934154, 2027967.670810000505298 ], [ 3034289.580209999810904, 2027967.670810000505298 ], [ 3034289.580209999810904, 2025150.786790000740439 ], [ 3031221.094790000934154, 2025150.786790000740439 ], [ 3031221.094790000934154, 2027967.670810000505298 ] ] ] } }
+]
+}

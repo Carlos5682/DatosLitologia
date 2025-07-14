@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Wamba",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3079129.731529999524355, 2192119.14657000079751 ], [ 3088408.049270000308752, 2192119.14657000079751 ], [ 3088408.049270000308752, 2181815.63803 ], [ 3079129.731529999524355, 2181815.63803 ], [ 3079129.731529999524355, 2192119.14657000079751 ] ] ] } }
+]
+}

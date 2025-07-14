@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Abezames",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3036902.221874999813735, 2194966.317625000141561 ], [ 3045074.174624999053776, 2194966.317625000141561 ], [ 3045074.174624999053776, 2186930.539275000803173 ], [ 3036902.221874999813735, 2186930.539275000803173 ], [ 3036902.221874999813735, 2194966.317625000141561 ] ] ] } }
+]
+}

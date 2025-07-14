@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Alcocero_de_Mola",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3222401.558675000444055, 2252797.965324999764562 ], [ 3229851.085625000298023, 2252797.965324999764562 ], [ 3229851.085625000298023, 2245252.36557500064373 ], [ 3222401.558675000444055, 2245252.36557500064373 ], [ 3222401.558675000444055, 2252797.965324999764562 ] ] ] } }
+]
+}

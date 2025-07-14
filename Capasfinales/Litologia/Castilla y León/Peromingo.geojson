@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Peromingo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Otros granitoides", "color": "#ff0080" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2984848.915954999625683, 2071560.233145000645891 ], [ 2990333.33814499899745, 2071560.233145000645891 ], [ 2990333.33814499899745, 2066933.084554999833927 ], [ 2984848.915954999625683, 2066933.084554999833927 ], [ 2984848.915954999625683, 2071560.233145000645891 ] ] ] } }
+]
+}

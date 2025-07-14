@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Avellanosa_de_Muñó",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3170429.18176499940455, 2209101.80693499930203 ], [ 3181510.213935000821948, 2209101.80693499930203 ], [ 3181510.213935000821948, 2198484.776465000584722 ], [ 3170429.18176499940455, 2198484.776465000584722 ], [ 3170429.18176499940455, 2209101.80693499930203 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Arraya_de_Oca",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3219021.379304999019951, 2246767.041195 ], [ 3223876.042895000893623, 2246767.041195 ], [ 3223876.042895000893623, 2236886.646904998924583 ], [ 3219021.379304999019951, 2236886.646904998924583 ], [ 3219021.379304999019951, 2246767.041195 ] ] ] } }
+]
+}

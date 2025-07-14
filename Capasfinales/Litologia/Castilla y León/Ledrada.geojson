@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Ledrada",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Otros granitoides", "color": "#ff0080" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2988769.862004999537021, 2073649.658795000752434 ], [ 2995105.23969499906525, 2073649.658795000752434 ], [ 2995105.23969499906525, 2065695.557705000275746 ], [ 2988769.862004999537021, 2065695.557705000275746 ], [ 2988769.862004999537021, 2073649.658795000752434 ] ] ] } }
+]
+}

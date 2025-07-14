@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Villán_de_Tordesillas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3078033.822235000319779, 2182026.540065000765026 ], [ 3083759.8049649996683, 2182026.540065000765026 ], [ 3083759.8049649996683, 2174221.541435000486672 ], [ 3078033.822235000319779, 2174221.541435000486672 ], [ 3078033.822235000319779, 2182026.540065000765026 ] ] ] } }
+]
+}

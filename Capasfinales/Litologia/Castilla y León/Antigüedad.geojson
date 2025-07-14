@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Antigüedad",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3149069.499665000475943, 2208099.00613500084728 ], [ 3161998.061534999869764, 2208099.00613500084728 ], [ 3161998.061534999869764, 2192218.86016499903053 ], [ 3149069.499665000475943, 2192218.86016499903053 ], [ 3149069.499665000475943, 2208099.00613500084728 ] ] ] } }
+]
+}

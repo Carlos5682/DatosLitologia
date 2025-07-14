@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Velilla_de_los_Ajos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3292528.404100000392646, 2130943.638499999884516 ], [ 3301333.938500000629574, 2130943.638499999884516 ], [ 3301333.938500000629574, 2123097.641799998935312 ], [ 3292528.404100000392646, 2123097.641799998935312 ], [ 3292528.404100000392646, 2130943.638499999884516 ] ] ] } }
+]
+}

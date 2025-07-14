@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Villatuelda",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3167092.363149999175221, 2188287.362249999772757 ], [ 3173372.876449999865144, 2188287.362249999772757 ], [ 3173372.876449999865144, 2180110.98755000019446 ], [ 3167092.363149999175221, 2180110.98755000019446 ], [ 3167092.363149999175221, 2188287.362249999772757 ] ] ] } }
+]
+}

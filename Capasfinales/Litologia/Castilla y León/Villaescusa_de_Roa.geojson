@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Villaescusa_de_Roa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3151957.369589999318123, 2181055.729709999635816 ], [ 3160860.907610001042485, 2181055.729709999635816 ], [ 3160860.907610001042485, 2174677.786289999261498 ], [ 3151957.369589999318123, 2174677.786289999261498 ], [ 3151957.369589999318123, 2181055.729709999635816 ] ] ] } }
+]
+}

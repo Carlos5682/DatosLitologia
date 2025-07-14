@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Barbalos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Cuarcitas, pizarras, areniscas y calizas", "color": "#98e600" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2971850.821505000814795, 2100468.700494999065995 ], [ 2983718.89079499989748, 2100468.700494999065995 ], [ 2983718.89079499989748, 2086242.515404999256134 ], [ 2971850.821505000814795, 2086242.515404999256134 ], [ 2971850.821505000814795, 2100468.700494999065995 ] ] ] } }
+]
+}

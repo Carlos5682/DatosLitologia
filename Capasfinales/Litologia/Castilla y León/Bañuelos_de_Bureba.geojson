@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Bañuelos_de_Bureba",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3228814.28647500090301, 2255011.754525000229478 ], [ 3236125.735424999147654, 2255011.754525000229478 ], [ 3236125.735424999147654, 2247785.874375000596046 ], [ 3228814.28647500090301, 2247785.874375000596046 ], [ 3228814.28647500090301, 2255011.754525000229478 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Navalmoral",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Otros granitoides", "color": "#ff0080" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3067998.740419999696314, 2056232.752580001018941 ], [ 3077745.37497999984771, 2056232.752580001018941 ], [ 3077745.37497999984771, 2046909.899120000191033 ], [ 3067998.740419999696314, 2046909.899120000191033 ], [ 3067998.740419999696314, 2056232.752580001018941 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Veguillas,_Las",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Cuarcitas, pizarras, areniscas y calizas", "color": "#98e600" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2981355.070514999330044, 2105776.442885000258684 ], [ 2994243.629185000434518, 2105776.442885000258684 ], [ 2994243.629185000434518, 2094456.914514999836683 ], [ 2981355.070514999330044, 2094456.914514999836683 ], [ 2981355.070514999330044, 2105776.442885000258684 ] ] ] } }
+]
+}

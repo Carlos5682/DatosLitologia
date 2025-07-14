@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Villanueva_del_Campillo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Otros granitoides", "color": "#ff0080" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3032623.416760000400245, 2077991.357339999871328 ], [ 3044549.252239999361336, 2077991.357339999871328 ], [ 3044549.252239999361336, 2066465.533259999705479 ], [ 3032623.416760000400245, 2066465.533259999705479 ], [ 3032623.416760000400245, 2077991.357339999871328 ] ] ] } }
+]
+}

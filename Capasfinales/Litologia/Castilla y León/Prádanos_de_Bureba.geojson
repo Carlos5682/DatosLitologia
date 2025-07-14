@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Prádanos_de_Bureba",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3223942.97148000029847, 2254814.46631999919191 ], [ 3230242.260319998953491, 2254814.46631999919191 ], [ 3230242.260319998953491, 2249738.215480001177639 ], [ 3223942.97148000029847, 2249738.215480001177639 ], [ 3223942.97148000029847, 2254814.46631999919191 ] ] ] } }
+]
+}

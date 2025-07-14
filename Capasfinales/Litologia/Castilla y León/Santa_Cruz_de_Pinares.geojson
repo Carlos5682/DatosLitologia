@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Santa_Cruz_de_Pinares",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Otros granitoides", "color": "#ff0080" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3081626.066070000641048, 2061804.584029999794438 ], [ 3091614.357229999266565, 2061804.584029999794438 ], [ 3091614.357229999266565, 2051122.988170000491664 ], [ 3081626.066070000641048, 2051122.988170000491664 ], [ 3081626.066070000641048, 2061804.584029999794438 ] ] ] } }
+]
+}

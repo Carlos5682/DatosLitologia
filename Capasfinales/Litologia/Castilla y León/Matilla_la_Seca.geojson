@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Matilla_la_Seca",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3030465.060795000288635, 2189021.814604999031872 ], [ 3036386.717704999726266, 2189021.814604999031872 ], [ 3036386.717704999726266, 2183752.185695000458509 ], [ 3030465.060795000288635, 2183752.185695000458509 ], [ 3030465.060795000288635, 2189021.814604999031872 ] ] ] } }
+]
+}

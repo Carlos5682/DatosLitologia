@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Alentisque",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3283910.197215000167489, 2122599.485785 ], [ 3296857.931885000318289, 2122599.485785 ], [ 3296857.931885000318289, 2112965.146915 ], [ 3283910.197215000167489, 2112965.146915 ], [ 3283910.197215000167489, 2122599.485785 ] ] ] } }
+]
+}

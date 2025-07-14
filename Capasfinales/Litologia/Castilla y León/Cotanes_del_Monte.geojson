@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Cotanes_del_Monte",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3050749.68578999908641, 2211169.29501 ], [ 3057664.897209999617189, 2211169.29501 ], [ 3057664.897209999617189, 2204778.339189999271184 ], [ 3050749.68578999908641, 2204778.339189999271184 ], [ 3050749.68578999908641, 2211169.29501 ] ] ] } }
+]
+}

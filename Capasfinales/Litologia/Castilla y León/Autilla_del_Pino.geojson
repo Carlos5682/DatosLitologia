@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Autilla_del_Pino",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3107803.275750000495464, 2220262.881750000175089 ], [ 3117695.975449999328703, 2220262.881750000175089 ], [ 3117695.975449999328703, 2210991.601450000423938 ], [ 3107803.275750000495464, 2210991.601450000423938 ], [ 3107803.275750000495464, 2220262.881750000175089 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Redecilla_del_Camino",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3244988.910730000585318, 2244859.589770000427961 ], [ 3251677.857869999483228, 2244859.589770000427961 ], [ 3251677.857869999483228, 2232462.00743000023067 ], [ 3244988.910730000585318, 2232462.00743000023067 ], [ 3244988.910730000585318, 2244859.589770000427961 ] ] ] } }
+]
+}

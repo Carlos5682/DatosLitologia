@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Villanubla",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3083377.125684999395162, 2193209.915714999195188 ], [ 3095204.005815000738949, 2193209.915714999195188 ], [ 3095204.005815000738949, 2182869.523185000289232 ], [ 3083377.125684999395162, 2182869.523185000289232 ], [ 3083377.125684999395162, 2193209.915714999195188 ] ] ] } }
+]
+}

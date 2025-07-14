@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Campaspero",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3130940.306615000125021, 2161912.435585 ], [ 3142991.613285, 2161912.435585 ], [ 3142991.613285, 2150161.041015000548214 ], [ 3130940.306615000125021, 2150161.041015000548214 ], [ 3130940.306615000125021, 2161912.435585 ] ] ] } }
+]
+}

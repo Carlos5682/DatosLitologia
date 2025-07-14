@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Soliedra",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3282204.687514999881387, 2128398.315984999760985 ], [ 3291872.488384999334812, 2128398.315984999760985 ], [ 3291872.488384999334812, 2121098.686614999547601 ], [ 3282204.687514999881387, 2121098.686614999547601 ], [ 3282204.687514999881387, 2128398.315984999760985 ] ] ] } }
+]
+}

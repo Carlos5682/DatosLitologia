@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Morales_de_Campos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3068611.685778060462326, 2207579.971224999520928 ], [ 3061897.109424999449402, 2207579.971224999520928 ], [ 3061897.109424999449402, 2214053.640074999537319 ], [ 3068688.388074999209493, 2214053.640074999537319 ], [ 3068688.388074999209493, 2207613.204968716949224 ], [ 3068611.685778060462326, 2207579.971224999520928 ] ] ] } },
+{ "type": "Feature", "properties": { "LITOLOGIA": "Gravas, conglomerados, arenas y limos", "color": "#ffe6bf" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3068688.388074999209493, 2207613.204968716949224 ], [ 3068688.388074999209493, 2207579.971224999520928 ], [ 3068611.685778060462326, 2207579.971224999520928 ], [ 3068688.388074999209493, 2207613.204968716949224 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Bascuñana",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3242130.080199999269098, 2241882.30089999968186 ], [ 3248784.572899999562651, 2241882.30089999968186 ], [ 3248784.572899999562651, 2235040.164299999829382 ], [ 3242130.080199999269098, 2235040.164299999829382 ], [ 3242130.080199999269098, 2241882.30089999968186 ] ] ] } }
+]
+}

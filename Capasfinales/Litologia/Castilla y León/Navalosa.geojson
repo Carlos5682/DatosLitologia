@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Navalosa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Otros granitoides", "color": "#ff0080" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3052391.452135, 2051416.081264999229461 ], [ 3064183.009964999277145, 2051416.081264999229461 ], [ 3064183.009964999277145, 2041258.479235000442713 ], [ 3052391.452135, 2041258.479235000442713 ], [ 3052391.452135, 2051416.081264999229461 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Momblona",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3285473.423230000771582, 2127495.342570000328124 ], [ 3298495.257769999094307, 2127495.342570000328124 ], [ 3298495.257769999094307, 2117962.075930000282824 ], [ 3285473.423230000771582, 2117962.075930000282824 ], [ 3285473.423230000771582, 2127495.342570000328124 ] ] ] } }
+]
+}

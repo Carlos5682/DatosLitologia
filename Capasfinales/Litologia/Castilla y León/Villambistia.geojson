@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Villambistia",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3229118.552790000569075, 2245776.6460099988617 ], [ 3234309.634909999091178, 2245776.6460099988617 ], [ 3234309.634909999091178, 2237157.667590001132339 ], [ 3229118.552790000569075, 2237157.667590001132339 ], [ 3229118.552790000569075, 2245776.6460099988617 ] ] ] } }
+]
+}

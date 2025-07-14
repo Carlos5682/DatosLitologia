@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Escurial_de_la_Sierra",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Cuarcitas, pizarras, areniscas y calizas", "color": "#98e600" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2971839.947409999556839, 2092951.668089999817312 ], [ 2979445.457090000621974, 2092951.668089999817312 ], [ 2979445.457090000621974, 2084446.310710000805557 ], [ 2971839.947409999556839, 2084446.310710000805557 ], [ 2971839.947409999556839, 2092951.668089999817312 ] ] ] } }
+]
+}
