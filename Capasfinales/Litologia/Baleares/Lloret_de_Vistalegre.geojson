@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Lloret_de_Vistalegre",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3711567.371815000660717, 1868718.024884999729693 ], [ 3720504.450484999455512, 1868718.024884999729693 ], [ 3720504.450484999455512, 1860931.307415000163019 ], [ 3711567.371815000660717, 1860931.307415000163019 ], [ 3711567.371815000660717, 1868718.024884999729693 ] ] ] } }
+]
+}
