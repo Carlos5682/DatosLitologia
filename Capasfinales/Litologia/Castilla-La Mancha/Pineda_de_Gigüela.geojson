@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Pineda_de_Gigüela",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3246980.807935000397265, 1980653.656465000472963 ], [ 3256937.610764999873936, 1980653.656465000472963 ], [ 3256937.610764999873936, 1973182.659835000522435 ], [ 3246980.807935000397265, 1973182.659835000522435 ], [ 3246980.807935000397265, 1980653.656465000472963 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Valdegrudas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3219107.007464998867363, 2056282.082635000580922 ], [ 3226811.271435000468045, 2056282.082635000580922 ], [ 3226811.271435000468045, 2048951.007965000113472 ], [ 3219107.007464998867363, 2048951.007965000113472 ], [ 3219107.007464998867363, 2056282.082635000580922 ] ] ] } }
+]
+}

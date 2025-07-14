@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Olmedilla_de_Eliz",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3262054.180335000623018, 2000909.922464999603108 ], [ 3268633.427164999302477, 2000909.922464999603108 ], [ 3268633.427164999302477, 1994712.748835 ], [ 3262054.180335000623018, 1994712.748835 ], [ 3262054.180335000623018, 2000909.922464999603108 ] ] ] } }
+]
+}

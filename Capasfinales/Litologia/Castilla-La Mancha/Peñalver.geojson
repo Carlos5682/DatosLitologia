@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Peñalver",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3224668.899789999239147, 2039422.580310001038015 ], [ 3237663.756210000254214, 2039422.580310001038015 ], [ 3237663.756210000254214, 2029340.695689999498427 ], [ 3224668.899789999239147, 2029340.695689999498427 ], [ 3224668.899789999239147, 2039422.580310001038015 ] ] ] } }
+]
+}

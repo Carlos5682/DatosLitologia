@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Cabañas_de_la_Sagra",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3127786.988114999607205, 1993159.249284999677911 ], [ 3134246.82918499968946, 1993159.249284999677911 ], [ 3134246.82918499968946, 1983869.407814999809489 ], [ 3127786.988114999607205, 1983869.407814999809489 ], [ 3127786.988114999607205, 1993159.249284999677911 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Salmerón",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3259026.137475000228733, 2031009.929325 ], [ 3268864.021425, 2031009.929325 ], [ 3268864.021425, 2021044.68377499980852 ], [ 3259026.137475000228733, 2021044.68377499980852 ], [ 3259026.137475000228733, 2031009.929325 ] ] ] } }
+]
+}

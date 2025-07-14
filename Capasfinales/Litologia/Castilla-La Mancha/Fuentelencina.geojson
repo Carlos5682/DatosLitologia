@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Fuentelencina",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3225679.075005, 2034060.833094999659806 ], [ 3235744.994795000646263, 2034060.833094999659806 ], [ 3235744.994795000646263, 2020583.276405000593513 ], [ 3225679.075005, 2020583.276405000593513 ], [ 3225679.075005, 2034060.833094999659806 ] ] ] } }
+]
+}

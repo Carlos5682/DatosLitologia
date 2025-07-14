@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Valdeavellano",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3222157.432430000510067, 2050478.613769999239594 ], [ 3230344.79647, 2050478.613769999239594 ], [ 3230344.79647, 2040886.025830000173301 ], [ 3222157.432430000510067, 2040886.025830000173301 ], [ 3222157.432430000510067, 2050478.613769999239594 ] ] ] } }
+]
+}

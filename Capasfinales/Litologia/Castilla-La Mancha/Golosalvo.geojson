@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Golosalvo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3310189.218080000951886, 1875848.38242 ], [ 3319224.751819999888539, 1875848.38242 ], [ 3319224.751819999888539, 1866070.160980000859126 ], [ 3310189.218080000951886, 1866070.160980000859126 ], [ 3310189.218080000951886, 1875848.38242 ] ] ] } }
+]
+}

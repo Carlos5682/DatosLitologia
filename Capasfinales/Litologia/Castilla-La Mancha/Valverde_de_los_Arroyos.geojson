@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Valverde_de_los_Arroyos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Cuarcitas, pizarras, areniscas y calizas", "color": "#98e600" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3206577.360315000638366, 2107380.595684999600053 ], [ 3216534.918284999206662, 2107380.595684999600053 ], [ 3216534.918284999206662, 2095389.388015000382438 ], [ 3206577.360315000638366, 2095389.388015000382438 ], [ 3206577.360315000638366, 2107380.595684999600053 ] ] ] } }
+]
+}

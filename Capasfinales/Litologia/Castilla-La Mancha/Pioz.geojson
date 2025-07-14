@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Pioz",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3201341.68472999939695, 2030007.022470000665635 ], [ 3208555.40007, 2030007.022470000665635 ], [ 3208555.40007, 2023236.980729999486357 ], [ 3201341.68472999939695, 2023236.980729999486357 ], [ 3201341.68472999939695, 2030007.022470000665635 ] ] ] } }
+]
+}

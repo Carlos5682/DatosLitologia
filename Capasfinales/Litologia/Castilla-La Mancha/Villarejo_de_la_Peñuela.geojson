@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Villarejo_de_la_Peñuela",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3259682.715549999848008, 1977220.83504999987781 ], [ 3266436.24805000051856, 1977220.83504999987781 ], [ 3266436.24805000051856, 1971361.693749999627471 ], [ 3259682.715549999848008, 1971361.693749999627471 ], [ 3259682.715549999848008, 1977220.83504999987781 ] ] ] } }
+]
+}

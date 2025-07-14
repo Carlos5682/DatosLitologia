@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Castillo-Albaráñez",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3265131.0926050003618, 2000554.148994999239221 ], [ 3270180.074995, 2000554.148994999239221 ], [ 3270180.074995, 1994520.974705001106486 ], [ 3265131.0926050003618, 1994520.974705001106486 ], [ 3265131.0926050003618, 2000554.148994999239221 ] ] ] } }
+]
+}

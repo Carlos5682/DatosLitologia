@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Centenera",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3213640.84637, 2049250.059230000246316 ], [ 3220928.563430000562221, 2049250.059230000246316 ], [ 3220928.563430000562221, 2042642.782370000611991 ], [ 3213640.84637, 2042642.782370000611991 ], [ 3213640.84637, 2049250.059230000246316 ] ] ] } }
+]
+}

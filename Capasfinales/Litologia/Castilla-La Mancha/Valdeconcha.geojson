@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Valdeconcha",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3225284.982755000703037, 2025438.982745000161231 ], [ 3233421.317045000381768, 2025438.982745000161231 ], [ 3233421.317045000381768, 2017184.949554999358952 ], [ 3225284.982755000703037, 2017184.949554999358952 ], [ 3225284.982755000703037, 2025438.982745000161231 ] ] ] } }
+]
+}

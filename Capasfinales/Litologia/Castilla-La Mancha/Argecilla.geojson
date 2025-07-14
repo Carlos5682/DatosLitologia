@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Argecilla",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3236705.067129998933524, 2073737.351970000658184 ], [ 3246726.286170000676066, 2073737.351970000658184 ], [ 3246726.286170000676066, 2061712.43542999913916 ], [ 3236705.067129998933524, 2061712.43542999913916 ], [ 3236705.067129998933524, 2073737.351970000658184 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Alcabón",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3093858.25961000053212, 1997936.720789999235421 ], [ 3097932.721889999229461, 1997936.720789999235421 ], [ 3097932.721889999229461, 1991536.131009999196976 ], [ 3093858.25961000053212, 1991536.131009999196976 ], [ 3093858.25961000053212, 1997936.720789999235421 ] ] ] } }
+]
+}

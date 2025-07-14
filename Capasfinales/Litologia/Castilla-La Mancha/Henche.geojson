@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Henche",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3244128.288194999564439, 2052157.906005000229925 ], [ 3252657.204305000137538, 2052157.906005000229925 ], [ 3252657.204305000137538, 2044312.873295000288635 ], [ 3244128.288194999564439, 2044312.873295000288635 ], [ 3244128.288194999564439, 2052157.906005000229925 ] ] ] } }
+]
+}

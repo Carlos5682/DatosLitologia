@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Castilforte",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3263196.239655000157654, 2031772.683544999687001 ], [ 3273720.70204500015825, 2031772.683544999687001 ], [ 3273720.70204500015825, 2021647.914855000795797 ], [ 3263196.239655000157654, 2021647.914855000795797 ], [ 3263196.239655000157654, 2031772.683544999687001 ] ] ] } }
+]
+}
