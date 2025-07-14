@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Ribeira_de_Piquín",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Cuarcitas, pizarras, areniscas y calizas", "color": "#98e600" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2927114.04522000066936, 2400809.180779999122024 ], [ 2939818.070180000737309, 2400809.180779999122024 ], [ 2939818.070180000737309, 2382934.860419999808073 ], [ 2927114.04522000066936, 2382934.860419999808073 ], [ 2927114.04522000066936, 2400809.180779999122024 ] ] ] } }
+]
+}

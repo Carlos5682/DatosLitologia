@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Mondariz-Balneario",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Granitoides de dos micas", "color": "#e60000" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2806736.871585000772029, 2312179.827614999841899 ], [ 2809367.89301500050351, 2312179.827614999841899 ], [ 2809367.89301500050351, 2309430.509485001210123 ], [ 2806736.871585000772029, 2309430.509485001210123 ], [ 2806736.871585000772029, 2312179.827614999841899 ] ] ] } }
+]
+}
