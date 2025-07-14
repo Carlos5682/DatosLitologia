@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Soraluze-Placencia_de_las_Armas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Dolomías, calizas y margas. Areniscas", "color": "#00a9e6" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3310673.386664998717606, 2316474.599034999497235 ], [ 3318153.535835000686347, 2316474.599034999497235 ], [ 3318153.535835000686347, 2310693.958964998833835 ], [ 3310673.386664998717606, 2310693.958964998833835 ], [ 3310673.386664998717606, 2316474.599034999497235 ] ] ] } }
+]
+}

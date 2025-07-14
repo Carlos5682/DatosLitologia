@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Mendaro",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Dolomías, calizas y margas. Areniscas", "color": "#00a9e6" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3312110.765799999237061, 2324609.866599999368191 ], [ 3322733.627399999648333, 2324609.866599999368191 ], [ 3322733.627399999648333, 2315356.9517 ], [ 3312110.765799999237061, 2315356.9517 ], [ 3312110.765799999237061, 2324609.866599999368191 ] ] ] } }
+]
+}

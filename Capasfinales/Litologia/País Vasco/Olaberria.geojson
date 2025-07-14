@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Olaberria",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Dolomías, calizas y margas. Areniscas", "color": "#00a9e6" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3326340.595459999516606, 2296682.216339999809861 ], [ 3330132.04074, 2296682.216339999809861 ], [ 3330132.04074, 2290661.485260000452399 ], [ 3326340.595459999516606, 2290661.485260000452399 ], [ 3326340.595459999516606, 2296682.216339999809861 ] ] ] } }
+]
+}

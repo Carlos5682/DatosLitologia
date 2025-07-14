@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Idiazabal",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Dolomías, calizas y margas. Areniscas", "color": "#00a9e6" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3321020.113835000433028, 2296928.602364999242127 ], [ 3329524.088964999653399, 2296928.602364999242127 ], [ 3329524.088964999653399, 2284270.022535000927746 ], [ 3321020.113835000433028, 2284270.022535000927746 ], [ 3321020.113835000433028, 2296928.602364999242127 ] ] ] } }
+]
+}

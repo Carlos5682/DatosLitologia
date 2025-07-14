@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Itsasondo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Dolomías, calizas y margas. Areniscas", "color": "#00a9e6" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3328471.755764999426901, 2303048.698634999804199 ], [ 3333718.308735000900924, 2303048.698634999804199 ], [ 3333718.308735000900924, 2296869.308664998970926 ], [ 3328471.755764999426901, 2296869.308664998970926 ], [ 3328471.755764999426901, 2303048.698634999804199 ] ] ] } }
+]
+}

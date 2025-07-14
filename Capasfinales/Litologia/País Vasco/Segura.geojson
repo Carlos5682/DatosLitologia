@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Segura",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Dolomías, calizas y margas. Areniscas", "color": "#00a9e6" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3320726.830194999463856, 2294866.730205000378191 ], [ 3325601.4601050009951, 2294866.730205000378191 ], [ 3325601.4601050009951, 2287609.973295000381768 ], [ 3320726.830194999463856, 2287609.973295000381768 ], [ 3320726.830194999463856, 2294866.730205000378191 ] ] ] } }
+]
+}

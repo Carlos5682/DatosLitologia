@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Gabiria",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Dolomías, calizas y margas. Areniscas", "color": "#00a9e6" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3318278.92322999984026, 2301034.35647 ], [ 3324941.662170000374317, 2301034.35647 ], [ 3324941.662170000374317, 2295449.675230000168085 ], [ 3318278.92322999984026, 2295449.675230000168085 ], [ 3318278.92322999984026, 2301034.35647 ] ] ] } }
+]
+}

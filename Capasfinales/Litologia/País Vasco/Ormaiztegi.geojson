@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Ormaiztegi",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Dolomías, calizas y margas. Areniscas", "color": "#00a9e6" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3322674.627939999103546, 2298711.544059999287128 ], [ 3326936.274059999734163, 2298711.544059999287128 ], [ 3326936.274059999734163, 2294003.31274 ], [ 3322674.627939999103546, 2294003.31274 ], [ 3322674.627939999103546, 2298711.544059999287128 ] ] ] } }
+]
+}

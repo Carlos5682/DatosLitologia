@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Baliarrain",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Dolomías, calizas y margas. Areniscas", "color": "#00a9e6" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3333808.724789999425411, 2299506.074810000136495 ], [ 3336103.380510000512004, 2299506.074810000136495 ], [ 3336103.380510000512004, 2296918.493189999833703 ], [ 3333808.724789999425411, 2296918.493189999833703 ], [ 3333808.724789999425411, 2299506.074810000136495 ] ] ] } }
+]
+}

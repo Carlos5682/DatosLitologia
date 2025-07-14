@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Artziniega",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Dolomías, calizas y margas. Areniscas", "color": "#00a9e6" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3250502.266410000156611, 2322815.719990000594407 ], [ 3258925.668590000364929, 2322815.719990000594407 ], [ 3258925.668590000364929, 2313527.705409999471158 ], [ 3250502.266410000156611, 2313527.705409999471158 ], [ 3250502.266410000156611, 2322815.719990000594407 ] ] ] } }
+]
+}
