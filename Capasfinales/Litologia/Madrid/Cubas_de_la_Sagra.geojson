@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Cubas_de_la_Sagra",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3139888.304830000735819, 2009745.50766999903135 ], [ 3147650.744970000348985, 2009745.50766999903135 ], [ 3147650.744970000348985, 2004359.463830000953749 ], [ 3139888.304830000735819, 2004359.463830000953749 ], [ 3139888.304830000735819, 2009745.50766999903135 ] ] ] } }
+]
+}

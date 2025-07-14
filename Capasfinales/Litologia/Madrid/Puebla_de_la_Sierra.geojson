@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Puebla_de_la_Sierra",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Cuarcitas, pizarras, areniscas y calizas", "color": "#98e600" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3185750.390529999509454, 2096764.068470001220703 ], [ 3197209.864070000126958, 2096764.068470001220703 ], [ 3197209.864070000126958, 2084282.833729999139905 ], [ 3185750.390529999509454, 2084282.833729999139905 ], [ 3185750.390529999509454, 2096764.068470001220703 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Santorcaz",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3196733.03339, 2033344.87241 ], [ 3204249.494910000357777, 2033344.87241 ], [ 3204249.494910000357777, 2023171.130390000762418 ], [ 3196733.03339, 2023171.130390000762418 ], [ 3196733.03339, 2033344.87241 ] ] ] } }
+]
+}

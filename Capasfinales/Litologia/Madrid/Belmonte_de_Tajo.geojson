@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Belmonte_de_Tajo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3180426.105400000233203, 1999190.036299999337643 ], [ 3189657.510600000154227, 1999190.036299999337643 ], [ 3189657.510600000154227, 1988371.70149999903515 ], [ 3180426.105400000233203, 1988371.70149999903515 ], [ 3180426.105400000233203, 1999190.036299999337643 ] ] ] } }
+]
+}

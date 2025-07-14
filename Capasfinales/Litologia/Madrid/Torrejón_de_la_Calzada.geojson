@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Torrejón_de_la_Calzada",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3144921.991499999538064, 2010861.470000000670552 ], [ 3149999.310100000351667, 2010861.470000000670552 ], [ 3149999.310100000351667, 2004198.143200000748038 ], [ 3144921.991499999538064, 2004198.143200000748038 ], [ 3144921.991499999538064, 2010861.470000000670552 ] ] ] } }
+]
+}

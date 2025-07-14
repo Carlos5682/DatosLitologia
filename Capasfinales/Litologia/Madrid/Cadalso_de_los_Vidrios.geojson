@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Cadalso_de_los_Vidrios",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Otros granitoides", "color": "#ff0080" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3088347.149349999148399, 2034185.16815 ], [ 3102605.823650000151247, 2034185.16815 ], [ 3102605.823650000151247, 2022322.695149999344721 ], [ 3088347.149349999148399, 2022322.695149999344721 ], [ 3088347.149349999148399, 2034185.16815 ] ] ] } }
+]
+}

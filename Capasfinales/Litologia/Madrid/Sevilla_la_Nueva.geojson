@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Sevilla_la_Nueva",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3126077.5524, 2031972.118600000161678 ], [ 3134349.298999999184161, 2031972.118600000161678 ], [ 3134349.298999999184161, 2024790.408400000538677 ], [ 3126077.5524, 2024790.408400000538677 ], [ 3126077.5524, 2031972.118600000161678 ] ] ] } }
+]
+}
