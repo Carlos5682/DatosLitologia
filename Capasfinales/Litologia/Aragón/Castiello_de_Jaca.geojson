@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Castiello_de_Jaca",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Calizas detríticas, calcarenitas, margas, arcillas y calizas", "color": "#ffd37f" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3459319.603841667063534, 2236922.00486500095576 ], [ 3459585.422565001063049, 2236922.00486500095576 ], [ 3459585.422565001063049, 2236803.401283510029316 ], [ 3459319.603841667063534, 2236922.00486500095576 ] ] ] } },
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3459585.422565001063049, 2236803.401283510029316 ], [ 3459585.422565001063049, 2227256.240834998898208 ], [ 3452549.69703499879688, 2227256.240834998898208 ], [ 3452549.69703499879688, 2236922.00486500095576 ], [ 3459319.603841667063534, 2236922.00486500095576 ], [ 3459585.422565001063049, 2236803.401283510029316 ] ] ] } }
+]
+}

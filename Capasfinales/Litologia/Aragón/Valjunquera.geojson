@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Valjunquera",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3473443.043215, 2046729.144384999759495 ], [ 3485895.262084999121726, 2046729.144384999759495 ], [ 3485895.262084999121726, 2035219.639715 ], [ 3473443.043215, 2035219.639715 ], [ 3473443.043215, 2046729.144384999759495 ] ] ] } }
+]
+}

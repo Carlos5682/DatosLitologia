@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Villarroya_del_Campo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3366845.132694999221712, 2079557.921804999466985 ], [ 3373005.231004999484867, 2079557.921804999466985 ], [ 3373005.231004999484867, 2072946.971095 ], [ 3366845.132694999221712, 2072946.971095 ], [ 3366845.132694999221712, 2079557.921804999466985 ] ] ] } }
+]
+}

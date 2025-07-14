@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Puertomingalvo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Dolomías, calizas y margas. Areniscas", "color": "#00a9e6" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3423544.08061, 1981297.747790000867099 ], [ 3438619.432390000205487, 1981297.747790000867099 ], [ 3438619.432390000205487, 1963768.59381 ], [ 3423544.08061, 1963768.59381 ], [ 3423544.08061, 1981297.747790000867099 ] ] ] } }
+]
+}

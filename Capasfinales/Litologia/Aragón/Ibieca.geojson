@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Ibieca",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Areniscas, conglomerados, arcillas; calizas y evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3475619.275230000261217, 2178236.170570000540465 ], [ 3481095.176870001014322, 2178236.170570000540465 ], [ 3481095.176870001014322, 2169418.25783 ], [ 3475619.275230000261217, 2169418.25783 ], [ 3475619.275230000261217, 2178236.170570000540465 ] ] ] } }
+]
+}

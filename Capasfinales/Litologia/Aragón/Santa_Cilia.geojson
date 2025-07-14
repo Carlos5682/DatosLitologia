@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Santa_Cilia",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Conglomerados, areniscas, arcillas y calizas. Evaporitas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3436015.01029499899596, 2230643.395304999314249 ], [ 3446516.485104999504983, 2230643.395304999314249 ], [ 3446516.485104999504983, 2218910.371794999577105 ], [ 3436015.01029499899596, 2218910.371794999577105 ], [ 3436015.01029499899596, 2230643.395304999314249 ] ] ] } }
+]
+}
