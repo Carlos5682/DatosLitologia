@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Pinofranqueado",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Pizarras, grauwackas, cuarcitas y conglomerados", "color": "#ff73df" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2921254.224265000317246, 2076492.522434999700636 ], [ 2944711.149834999348968, 2076492.522434999700636 ], [ 2944711.149834999348968, 2056004.920165000949055 ], [ 2921254.224265000317246, 2056004.920165000949055 ], [ 2921254.224265000317246, 2076492.522434999700636 ] ] ] } }
+]
+}

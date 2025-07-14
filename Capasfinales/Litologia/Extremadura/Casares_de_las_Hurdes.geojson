@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Casares_de_las_Hurdes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Pizarras, grauwackas, cuarcitas y conglomerados", "color": "#ff73df" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2936149.428774999454618, 2078955.556925000622869 ], [ 2947614.689725000411272, 2078955.556925000622869 ], [ 2947614.689725000411272, 2072850.074975000694394 ], [ 2936149.428774999454618, 2072850.074975000694394 ], [ 2936149.428774999454618, 2078955.556925000622869 ] ] ] } }
+]
+}

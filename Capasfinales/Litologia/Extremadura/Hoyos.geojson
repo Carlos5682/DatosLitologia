@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Hoyos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "LITOLOGIA": "Otros granitoides", "color": "#ff0080" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2899099.793505000416189, 2057154.173794999253005 ], [ 2905674.262594999279827, 2057154.173794999253005 ], [ 2905674.262594999279827, 2049686.108905001077801 ], [ 2899099.793505000416189, 2049686.108905001077801 ], [ 2899099.793505000416189, 2057154.173794999253005 ] ] ] } }
+]
+}
