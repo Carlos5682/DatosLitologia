@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Oquillas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Conglomerados, areniscas, arenas arcósicas, arcillas, calizas y yesos", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3182076.076465000398457, 2186842.901035000570118 ], [ 3189872.799035000614822, 2186842.901035000570118 ], [ 3189872.799035000614822, 2180869.387065 ], [ 3182076.076465000398457, 2180869.387065 ], [ 3182076.076465000398457, 2186842.901035000570118 ] ] ] } }
+]
+}

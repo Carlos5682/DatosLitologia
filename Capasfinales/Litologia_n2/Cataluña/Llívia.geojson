@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Llívia",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Gravas, arenas, arcillas y limos. Aluvial, playas, flechas litorales", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3657932.598041655961424, 2185084.248708718456328 ], [ 3658061.328101583290845, 2184944.734270469285548 ], [ 3658023.270343552809209, 2184503.013944142032415 ], [ 3657898.245879999361932, 2184143.464479679241776 ], [ 3657898.245879999361932, 2185247.792987591121346 ], [ 3657932.598041655961424, 2185084.248708718456328 ] ] ] } }
+]
+}

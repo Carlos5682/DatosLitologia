@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Fuentes_de_Magaña",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Conglomerados, areniscas, arenas y margas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3306100.692129999399185, 2177618.517570000141859 ], [ 3316052.08787, 2177618.517570000141859 ], [ 3316052.08787, 2170872.527130000293255 ], [ 3306100.692129999399185, 2170872.527130000293255 ], [ 3306100.692129999399185, 2177618.517570000141859 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Aras",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Calizas arrecifales, calcarenitas y conglomerados. Arcillas con olistolitos", "color": "#ffdb00" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3305220.293159999884665, 2249599.599140000529587 ], [ 3311296.901940000243485, 2249599.599140000529587 ], [ 3311296.901940000243485, 2242346.42906 ], [ 3305220.293159999884665, 2242346.42906 ], [ 3305220.293159999884665, 2249599.599140000529587 ] ] ] } }
+]
+}

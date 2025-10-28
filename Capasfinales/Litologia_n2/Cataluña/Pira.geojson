@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Pira",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Conglomerados, gravas, arenas, areniscas, limos y arcillas. Terrazas fluviales y marinas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3581391.594807446934283, 2075179.57052499987185 ], [ 3581342.438925, 2075179.57052499987185 ], [ 3581342.438925, 2075335.981896510580555 ], [ 3581391.594807446934283, 2075179.57052499987185 ] ] ] } },
+{ "type": "Feature", "properties": { "DLO": "Turbiditas calcáreas. Calizas, calizas arenosas, areniscas y margas arenosas", "color": "#ffe6bf" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3581342.438925, 2075335.981896510580555 ], [ 3581342.438925, 2081116.054974999278784 ], [ 3585986.594374999403954, 2081116.054974999278784 ], [ 3585986.594374999403954, 2075179.57052499987185 ], [ 3581391.594807446934283, 2075179.57052499987185 ], [ 3581342.438925, 2075335.981896510580555 ] ] ] } }
+]
+}

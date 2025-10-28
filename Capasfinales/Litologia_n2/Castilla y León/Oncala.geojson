@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Oncala",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Conglomerados, areniscas, arenas y margas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3297312.899960000533611, 2184179.018739999737591 ], [ 3310474.336039999034256, 2184179.018739999737591 ], [ 3310474.336039999034256, 2174941.054760000202805 ], [ 3297312.899960000533611, 2174941.054760000202805 ], [ 3297312.899960000533611, 2184179.018739999737591 ] ] ] } }
+]
+}

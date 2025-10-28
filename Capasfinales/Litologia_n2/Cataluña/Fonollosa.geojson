@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Fonollosa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Turbiditas calcáreas. Calizas, calizas arenosas, areniscas y margas arenosas", "color": "#ffe6bf" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3621961.581945000216365, 2117838.852955000475049 ], [ 3638972.871954999864101, 2117838.852955000475049 ], [ 3638972.871954999864101, 2106033.962045000866055 ], [ 3621961.581945000216365, 2106033.962045000866055 ], [ 3621961.581945000216365, 2117838.852955000475049 ] ] ] } }
+]
+}

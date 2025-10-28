@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Estaràs",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Turbiditas calcáreas. Calizas, calizas arenosas, areniscas y margas arenosas", "color": "#ffe6bf" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3596990.215394999366254, 2113523.535005 ], [ 3607819.884004999417812, 2113523.535005 ], [ 3607819.884004999417812, 2102545.177095001097769 ], [ 3596990.215394999366254, 2102545.177095001097769 ], [ 3596990.215394999366254, 2113523.535005 ] ] ] } }
+]
+}

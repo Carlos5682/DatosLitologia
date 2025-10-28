@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Aguilar_de_Segarra",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Turbiditas calcáreas. Calizas, calizas arenosas, areniscas y margas arenosas", "color": "#ffe6bf" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3615644.567920000292361, 2114367.157179999165237 ], [ 3628533.819880000315607, 2114367.157179999165237 ], [ 3628533.819880000315607, 2103021.94862 ], [ 3615644.567920000292361, 2103021.94862 ], [ 3615644.567920000292361, 2114367.157179999165237 ] ] ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Lobera_de_Onsella",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Calizas arrecifales, calcarenitas y conglomerados. Arcillas con olistolitos", "color": "#ffdb00" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3414763.859782112296671, 2213710.889749998692423 ], [ 3411938.73325, 2213710.889749998692423 ], [ 3411938.73325, 2215181.328477860894054 ], [ 3414763.859782112296671, 2213710.889749998692423 ] ] ] } },
+{ "type": "Feature", "properties": { "DLO": "Turbiditas calcáreas. Calizas, calizas arenosas, areniscas y margas arenosas", "color": "#ffe6bf" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3411938.73325, 2215181.328477860894054 ], [ 3411938.73325, 2223185.067450001370162 ], [ 3420645.530149999540299, 2223185.067450001370162 ], [ 3420645.530149999540299, 2213710.889749998692423 ], [ 3414763.859782112296671, 2213710.889749998692423 ], [ 3411938.73325, 2215181.328477860894054 ] ] ] } }
+]
+}

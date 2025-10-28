@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Alqueria_de_la_Comtessa,_l'",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Conglomerados, gravas, arenas, areniscas, limos y arcillas. Terrazas fluviales y marinas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3436923.832924998831004, 1821435.684975000331178 ], [ 3439418.818875000346452, 1821435.684975000331178 ], [ 3439418.818875000346452, 1818312.540924999630079 ], [ 3436923.832924998831004, 1818312.540924999630079 ], [ 3436923.832924998831004, 1821435.684975000331178 ] ] ] } }
+]
+}

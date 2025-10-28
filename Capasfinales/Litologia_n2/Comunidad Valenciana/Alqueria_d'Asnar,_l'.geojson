@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Alqueria_d'Asnar,_l'",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Conglomerados, gravas, arenas, areniscas, limos y arcillas. Terrazas fluviales y marinas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3411585.091285, 1805859.966215000720695 ], [ 3414690.528815000783652, 1805859.966215000720695 ], [ 3414690.528815000783652, 1804018.534884999273345 ], [ 3411585.091285, 1804018.534884999273345 ], [ 3411585.091285, 1805859.966215000720695 ] ] ] } }
+]
+}

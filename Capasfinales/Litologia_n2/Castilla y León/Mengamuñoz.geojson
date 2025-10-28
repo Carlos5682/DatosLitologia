@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Mengamuñoz",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Granitoides biotíticos", "color": "#ff0080" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3048518.58242000034079, 2063585.165479999734089 ], [ 3054784.964779999572784, 2063585.165479999734089 ], [ 3054784.964779999572784, 2056428.372720000566915 ], [ 3048518.58242000034079, 2056428.372720000566915 ], [ 3048518.58242000034079, 2063585.165479999734089 ] ] ] } }
+]
+}

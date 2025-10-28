@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Viver_i_Serrateix",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Turbiditas calcáreas. Calizas, calizas arenosas, areniscas y margas arenosas", "color": "#ffe6bf" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3631389.576729999855161, 2138754.081669999286532 ], [ 3646817.915869999676943, 2138754.081669999286532 ], [ 3646817.915869999676943, 2123255.086729999631643 ], [ 3631389.576729999855161, 2123255.086729999631643 ], [ 3631389.576729999855161, 2138754.081669999286532 ] ] ] } }
+]
+}

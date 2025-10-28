@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Castellnou_de_Bages",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Turbiditas calcáreas. Calizas, calizas arenosas, areniscas y margas arenosas", "color": "#ffe6bf" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3636271.740725000854582, 2124125.529774999711663 ], [ 3644641.057975000236183, 2124125.529774999711663 ], [ 3644641.057975000236183, 2112632.265524999704212 ], [ 3636271.740725000854582, 2112632.265524999704212 ], [ 3636271.740725000854582, 2124125.529774999711663 ] ] ] } }
+]
+}

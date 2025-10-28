@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Espinosa_del_Camino",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Calizas arrecifales, calcarenitas y conglomerados. Arcillas con olistolitos", "color": "#ffdb00" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3228306.708739999681711, 2244510.802859999239445 ], [ 3232409.56226, 2244510.802859999239445 ], [ 3232409.56226, 2237325.58534000068903 ], [ 3228306.708739999681711, 2237325.58534000068903 ], [ 3228306.708739999681711, 2244510.802859999239445 ] ] ] } }
+]
+}

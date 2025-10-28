@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Granadella,_La",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Turbiditas calcáreas. Calizas, calizas arenosas, areniscas y margas arenosas", "color": "#ffe6bf" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3529518.013039999175817, 2086005.547560000326484 ], [ 3545835.288560000713915, 2086005.547560000326484 ], [ 3545835.288560000713915, 2069781.653640000615269 ], [ 3529518.013039999175817, 2069781.653640000615269 ], [ 3529518.013039999175817, 2086005.547560000326484 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Navajún",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Conglomerados, areniscas, arenas y margas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3316881.292090001050383, 2180852.12921000039205 ], [ 3324287.380410000216216, 2180852.12921000039205 ], [ 3324287.380410000216216, 2173223.693590000737458 ], [ 3316881.292090001050383, 2173223.693590000737458 ], [ 3316881.292090001050383, 2180852.12921000039205 ] ] ] } }
+]
+}

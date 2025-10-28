@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Yélamos_de_Abajo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Conglomerados, areniscas, arenas arcósicas, arcillas, calizas y yesos", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3230878.279634999576956, 2042209.696365000447258 ], [ 3236834.549964999314398, 2042209.696365000447258 ], [ 3236834.549964999314398, 2036183.708735000574961 ], [ 3230878.279634999576956, 2036183.708735000574961 ], [ 3230878.279634999576956, 2042209.696365000447258 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Gironella",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Turbiditas calcáreas. Calizas, calizas arenosas, areniscas y margas arenosas", "color": "#ffe6bf" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3645863.617085000500083, 2141466.539915001019835 ], [ 3650137.82901499979198, 2141466.539915001019835 ], [ 3650137.82901499979198, 2135404.89198499917984 ], [ 3645863.617085000500083, 2135404.89198499917984 ], [ 3645863.617085000500083, 2141466.539915001019835 ] ] ] } }
+]
+}

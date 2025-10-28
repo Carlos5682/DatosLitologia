@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Valverde_de_Valdelacasa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Granitoides biotíticos", "color": "#ff0080" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2985022.264139999169856, 2074622.64426 ], [ 2989451.129159999545664, 2074622.64426 ], [ 2989451.129159999545664, 2068853.813139999751002 ], [ 2985022.264139999169856, 2068853.813139999751002 ], [ 2985022.264139999169856, 2074622.64426 ] ] ] } }
+]
+}

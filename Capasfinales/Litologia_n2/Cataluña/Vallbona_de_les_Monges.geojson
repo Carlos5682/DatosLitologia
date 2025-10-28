@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Vallbona_de_les_Monges",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Turbiditas calcáreas. Calizas, calizas arenosas, areniscas y margas arenosas", "color": "#ffe6bf" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3571937.348449999466538, 2093741.230550000444055 ], [ 3584840.328150000423193, 2093741.230550000444055 ], [ 3584840.328150000423193, 2082969.500450000166893 ], [ 3571937.348449999466538, 2082969.500450000166893 ], [ 3571937.348449999466538, 2093741.230550000444055 ] ] ] } }
+]
+}

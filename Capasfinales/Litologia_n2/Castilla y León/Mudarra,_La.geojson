@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Mudarra,_La",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Conglomerados, areniscas, arenas arcósicas, arcillas, calizas y yesos", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3079513.163839999586344, 2203906.343459999188781 ], [ 3087206.399059999734163, 2203906.343459999188781 ], [ 3087206.399059999734163, 2195239.90594 ], [ 3079513.163839999586344, 2195239.90594 ], [ 3079513.163839999586344, 2203906.343459999188781 ] ] ] } }
+]
+}

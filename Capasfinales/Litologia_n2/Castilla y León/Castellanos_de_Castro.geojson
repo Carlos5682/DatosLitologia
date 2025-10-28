@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Castellanos_de_Castro",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Conglomerados, areniscas, arenas arcósicas, arcillas, calizas y yesos", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3165593.515945000108331, 2246197.891755000222474 ], [ 3171167.346154999453574, 2246197.891755000222474 ], [ 3171167.346154999453574, 2241410.161044999491423 ], [ 3165593.515945000108331, 2241410.161044999491423 ], [ 3165593.515945000108331, 2246197.891755000222474 ] ] ] } }
+]
+}

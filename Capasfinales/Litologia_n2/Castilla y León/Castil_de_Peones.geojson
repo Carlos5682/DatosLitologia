@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Castil_de_Peones",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Calizas arrecifales, calcarenitas y conglomerados. Arcillas con olistolitos", "color": "#ffdb00" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3220475.23138795979321, 2253494.581329999491572 ], [ 3226269.65883, 2253494.581329999491572 ], [ 3226269.65883, 2245850.430269999429584 ], [ 3220298.246269999071956, 2245850.430269999429584 ], [ 3220298.246269999071956, 2253354.751402313355356 ], [ 3220475.23138795979321, 2253494.581329999491572 ] ] ] } },
+{ "type": "Feature", "properties": { "DLO": "Margas y arcillas con niveles turbidíticos. Margocalizas y calizas margosas (Capas rojas)", "color": "#9bdfff" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3220298.246269999071956, 2253354.751402313355356 ], [ 3220298.246269999071956, 2253494.581329999491572 ], [ 3220475.23138795979321, 2253494.581329999491572 ], [ 3220298.246269999071956, 2253354.751402313355356 ] ] ] } }
+]
+}

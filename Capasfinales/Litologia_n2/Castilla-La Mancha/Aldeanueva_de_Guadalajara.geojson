@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Aldeanueva_de_Guadalajara",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Conglomerados, areniscas, arenas arcósicas, arcillas, calizas y yesos", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3215397.76456500031054, 2053594.936134999850765 ], [ 3222030.067834999412298, 2053594.936134999850765 ], [ 3222030.067834999412298, 2046655.030564998975024 ], [ 3215397.76456500031054, 2046655.030564998975024 ], [ 3215397.76456500031054, 2053594.936134999850765 ] ] ] } }
+]
+}

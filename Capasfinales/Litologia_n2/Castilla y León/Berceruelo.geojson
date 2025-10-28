@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Berceruelo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Conglomerados, areniscas, arenas arcósicas, arcillas, calizas y yesos", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3069922.309535, 2181364.426165 ], [ 3077391.843164999503642, 2181364.426165 ], [ 3077391.843164999503642, 2175601.440635000821203 ], [ 3069922.309535, 2175601.440635000821203 ], [ 3069922.309535, 2181364.426165 ] ] ] } }
+]
+}

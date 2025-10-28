@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Navarredondilla",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Granitoides biotíticos", "color": "#ff0080" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3060512.04933499917388, 2053567.224564999341965 ], [ 3069943.553364999592304, 2053567.224564999341965 ], [ 3069943.553364999592304, 2046991.196535000577569 ], [ 3060512.04933499917388, 2046991.196535000577569 ], [ 3060512.04933499917388, 2053567.224564999341965 ] ] ] } }
+]
+}

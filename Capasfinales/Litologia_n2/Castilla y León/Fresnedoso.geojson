@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Fresnedoso",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Granitoides biotíticos", "color": "#ff0080" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2989349.799399999435991, 2067668.146800000453368 ], [ 2994059.535599999595433, 2067668.146800000453368 ], [ 2994059.535599999595433, 2063062.290799999376759 ], [ 2989349.799399999435991, 2063062.290799999376759 ], [ 2989349.799399999435991, 2067668.146800000453368 ] ] ] } }
+]
+}

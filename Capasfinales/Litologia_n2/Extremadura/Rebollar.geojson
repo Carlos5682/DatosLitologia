@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Rebollar",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Granitoides de dos micas", "color": "#ff0080" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2965766.817719999700785, 2041737.524779999395832 ], [ 2973107.20168000087142, 2041737.524779999395832 ], [ 2973107.20168000087142, 2035259.632519999751821 ], [ 2965766.817719999700785, 2035259.632519999751821 ], [ 2965766.817719999700785, 2041737.524779999395832 ] ] ] } }
+]
+}

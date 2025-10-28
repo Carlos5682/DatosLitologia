@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Callús",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Turbiditas calcáreas. Calizas, calizas arenosas, areniscas y margas arenosas", "color": "#ffe6bf" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3633563.302714999765158, 2119096.510985 ], [ 3639818.70448499917984, 2119096.510985 ], [ 3639818.70448499917984, 2111333.581915000453591 ], [ 3633563.302714999765158, 2111333.581915000453591 ], [ 3633563.302714999765158, 2119096.510985 ] ] ] } }
+]
+}

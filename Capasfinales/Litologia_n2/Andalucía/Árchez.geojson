@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Árchez",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Conglomerados, calizas y margas. Margas con olistostromas de origen diverso", "color": "#ffdb00" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3067280.027090000919998, 1645499.065809999592602 ], [ 3071009.053410000167787, 1645499.065809999592602 ], [ 3071009.053410000167787, 1639636.932389999739826 ], [ 3067280.027090000919998, 1639636.932389999739826 ], [ 3067280.027090000919998, 1645499.065809999592602 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Guimerà",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Turbiditas calcáreas. Calizas, calizas arenosas, areniscas y margas arenosas", "color": "#ffe6bf" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3580911.020440000109375, 2099185.70475999917835 ], [ 3588908.56716, 2099185.70475999917835 ], [ 3588908.56716, 2088173.133839999325573 ], [ 3580911.020440000109375, 2088173.133839999325573 ], [ 3580911.020440000109375, 2099185.70475999917835 ] ] ] } }
+]
+}

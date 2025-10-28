@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Omellons,_Els",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Turbiditas calcáreas. Calizas, calizas arenosas, areniscas y margas arenosas", "color": "#ffe6bf" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3562406.47445, 2092016.19965000031516 ], [ 3568310.05395, 2092016.19965000031516 ], [ 3568310.05395, 2086230.664050000254065 ], [ 3562406.47445, 2086230.664050000254065 ], [ 3562406.47445, 2092016.19965000031516 ] ] ] } }
+]
+}

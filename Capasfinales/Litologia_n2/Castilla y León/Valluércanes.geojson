@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Valluércanes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Calizas arrecifales, calcarenitas y conglomerados. Arcillas con olistolitos", "color": "#ffdb00" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3242560.857384999282658, 2261682.141314999200404 ], [ 3250568.402114999480546, 2261682.141314999200404 ], [ 3250568.402114999480546, 2252784.738385000266135 ], [ 3242560.857384999282658, 2252784.738385000266135 ], [ 3242560.857384999282658, 2261682.141314999200404 ] ] ] } }
+]
+}

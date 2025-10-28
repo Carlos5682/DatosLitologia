@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Pozo_de_Guadalajara",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Conglomerados, areniscas, arenas arcósicas, arcillas, calizas y yesos", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3202218.551529999822378, 2033905.0041700003203 ], [ 3207662.58127, 2033905.0041700003203 ], [ 3207662.58127, 2027705.600830000126734 ], [ 3202218.551529999822378, 2027705.600830000126734 ], [ 3202218.551529999822378, 2033905.0041700003203 ] ] ] } }
+]
+}

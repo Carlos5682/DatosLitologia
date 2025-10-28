@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Vallfogona_de_Riucorb",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Turbiditas calcáreas. Calizas, calizas arenosas, areniscas y margas arenosas", "color": "#ffe6bf" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3585984.438365000300109, 2095309.409935000352561 ], [ 3591664.326735000126064, 2095309.409935000352561 ], [ 3591664.326735000126064, 2090616.503165000118315 ], [ 3585984.438365000300109, 2090616.503165000118315 ], [ 3585984.438365000300109, 2095309.409935000352561 ] ] ] } }
+]
+}

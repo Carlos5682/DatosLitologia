@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Beade",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Granitoides biotíticos", "color": "#ff0080" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2835720.179700000677258, 2318120.649299999233335 ], [ 2839455.455099999438971, 2318120.649299999233335 ], [ 2839455.455099999438971, 2312767.712099999655038 ], [ 2835720.179700000677258, 2312767.712099999655038 ], [ 2835720.179700000677258, 2318120.649299999233335 ] ] ] } }
+]
+}

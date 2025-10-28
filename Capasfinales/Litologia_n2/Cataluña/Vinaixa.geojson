@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Vinaixa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Turbiditas calcáreas. Calizas, calizas arenosas, areniscas y margas arenosas", "color": "#ffe6bf" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3560622.74052, 2088850.859979999018833 ], [ 3570321.878079999703914, 2088850.859979999018833 ], [ 3570321.878079999703914, 2075690.376020000549033 ], [ 3560622.74052, 2075690.376020000549033 ], [ 3560622.74052, 2088850.859979999018833 ] ] ] } }
+]
+}

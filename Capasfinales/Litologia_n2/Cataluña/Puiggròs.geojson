@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Puiggròs",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Turbiditas calcáreas. Calizas, calizas arenosas, areniscas y margas arenosas", "color": "#ffe6bf" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3556282.509465000126511, 2100100.891435000579804 ], [ 3561218.050335000734776, 2100100.891435000579804 ], [ 3561218.050335000734776, 2093253.91766499937512 ], [ 3556282.509465000126511, 2093253.91766499937512 ], [ 3556282.509465000126511, 2100100.891435000579804 ] ] ] } }
+]
+}

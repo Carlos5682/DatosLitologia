@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Súria",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Turbiditas calcáreas. Calizas, calizas arenosas, areniscas y margas arenosas", "color": "#ffe6bf" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3632402.975234999787062, 2122917.187264999840409 ], [ 3639627.305864999536425, 2122917.187264999840409 ], [ 3639627.305864999536425, 2114389.503035000991076 ], [ 3632402.975234999787062, 2114389.503035000991076 ], [ 3632402.975234999787062, 2122917.187264999840409 ] ] ] } }
+]
+}

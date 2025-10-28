@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Novelé_o_Novetlè",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Conglomerados, arenas, arrecifes, limos amarillos, yesos y sales haloideas. Conglomerados, arenas y calizas lacus", "color": "#ffdb00" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3403355.832739999517798, 1830076.54859713697806 ], [ 3403355.832739999517798, 1830238.486959999427199 ], [ 3403508.094372934661806, 1830238.486959999427199 ], [ 3403355.832739999517798, 1830076.54859713697806 ] ] ] } },
+{ "type": "Feature", "properties": { "DLO": "Conglomerados, gravas, arenas, areniscas, limos y arcillas. Terrazas fluviales y marinas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3405319.921843194868416, 1828399.747501637088135 ], [ 3405337.393411838449538, 1828344.601840000599623 ], [ 3403355.832739999517798, 1828344.601840000599623 ], [ 3403355.832739999517798, 1830076.54859713697806 ], [ 3403508.094372934661806, 1830238.486959999427199 ], [ 3405345.800459999591112, 1830238.486959999427199 ], [ 3405345.800459999591112, 1828561.922727641416714 ], [ 3405319.921843194868416, 1828399.747501637088135 ] ] ] } },
+{ "type": "Feature", "properties": { "DLO": "Margas y arcillas con niveles turbidíticos. Margocalizas y calizas margosas (Capas rojas)", "color": "#9bdfff" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3405319.921843194868416, 1828399.747501637088135 ], [ 3405345.800459999591112, 1828561.922727641416714 ], [ 3405345.800459999591112, 1828344.601840000599623 ], [ 3405337.393411838449538, 1828344.601840000599623 ], [ 3405319.921843194868416, 1828399.747501637088135 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Valdefuentes_de_Sangusín",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Granitoides biotíticos", "color": "#ff0080" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2979150.15472, 2075292.06218000059016 ], [ 2987764.61178, 2075292.06218000059016 ], [ 2987764.61178, 2065822.13262 ], [ 2979150.15472, 2065822.13262 ], [ 2979150.15472, 2075292.06218000059016 ] ] ] } }
+]
+}

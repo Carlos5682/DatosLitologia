@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Navatalgordo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Granitoides biotíticos", "color": "#ff0080" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3058714.545915000606328, 2050602.718685000902042 ], [ 3067368.676985000725836, 2050602.718685000902042 ], [ 3067368.676985000725836, 2044215.084115000674501 ], [ 3058714.545915000606328, 2044215.084115000674501 ], [ 3058714.545915000606328, 2050602.718685000902042 ] ] ] } }
+]
+}

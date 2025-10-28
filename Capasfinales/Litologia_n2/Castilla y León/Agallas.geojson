@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Agallas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Pizarras, grauwacas, conglomerados o porfiroides", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2925509.344020000193268, 2083497.072080000769347 ], [ 2939332.588179999496788, 2083497.072080000769347 ], [ 2939332.588179999496788, 2069568.379120000172406 ], [ 2925509.344020000193268, 2069568.379120000172406 ], [ 2925509.344020000193268, 2083497.072080000769347 ] ] ] } }
+]
+}

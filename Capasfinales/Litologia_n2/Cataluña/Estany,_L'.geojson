@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Estany,_L'",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Turbiditas calcáreas. Calizas, calizas arenosas, areniscas y margas arenosas", "color": "#ffe6bf" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3661852.189905000384897, 2122361.930395000148565 ], [ 3667566.588594999630004, 2122361.930395000148565 ], [ 3667566.588594999630004, 2117064.371204999741167 ], [ 3661852.189905000384897, 2117064.371204999741167 ], [ 3661852.189905000384897, 2122361.930395000148565 ] ] ] } }
+]
+}

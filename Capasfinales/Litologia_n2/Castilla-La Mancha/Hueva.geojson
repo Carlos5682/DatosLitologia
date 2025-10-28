@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Hueva",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Conglomerados, areniscas, arenas arcósicas, arcillas, calizas y yesos", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3217470.788755000103265, 2028124.331545000430197 ], [ 3228582.762745, 2028124.331545000430197 ], [ 3228582.762745, 2019360.037555000279099 ], [ 3217470.788755000103265, 2019360.037555000279099 ], [ 3217470.788755000103265, 2028124.331545000430197 ] ] ] } }
+]
+}

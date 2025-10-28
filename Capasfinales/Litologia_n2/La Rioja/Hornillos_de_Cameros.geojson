@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Hornillos_de_Cameros",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Conglomerados, areniscas, arenas y margas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3292933.624985000584275, 2210559.677414999809116 ], [ 3302631.5757149993442, 2210559.677414999809116 ], [ 3302631.5757149993442, 2203892.655585000757128 ], [ 3292933.624985000584275, 2203892.655585000757128 ], [ 3292933.624985000584275, 2210559.677414999809116 ] ] ] } }
+]
+}

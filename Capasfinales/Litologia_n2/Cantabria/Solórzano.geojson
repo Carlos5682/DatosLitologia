@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Solórzano",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Margas y margocalizas. Margas arcillosas turbidíticas. Calizas arenosas, areniscas, arenas y margas.", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3218948.694565, 2354374.021235000342131 ], [ 3228144.916534999385476, 2354374.021235000342131 ], [ 3228144.916534999385476, 2346106.867665000259876 ], [ 3218948.694565, 2346106.867665000259876 ], [ 3218948.694565, 2354374.021235000342131 ] ] ] } }
+]
+}

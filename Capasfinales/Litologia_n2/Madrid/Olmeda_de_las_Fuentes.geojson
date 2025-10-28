@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Olmeda_de_las_Fuentes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Conglomerados, areniscas, arenas arcósicas, arcillas, calizas y yesos", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3196967.449780000839382, 2020227.39842 ], [ 3203567.61882, 2020227.39842 ], [ 3203567.61882, 2013599.685379999224097 ], [ 3196967.449780000839382, 2013599.685379999224097 ], [ 3196967.449780000839382, 2020227.39842 ] ] ] } }
+]
+}

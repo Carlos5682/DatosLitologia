@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "San_Pedro_Manrique",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Conglomerados, areniscas, arenas y margas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3321736.13130500074476, 2195134.747010899707675 ], [ 3321736.13130500074476, 2173804.431994999758899 ], [ 3299512.136394998989999, 2173804.431994999758899 ], [ 3299512.136394998989999, 2195707.671905000694096 ], [ 3321180.09109371714294, 2195707.671905000694096 ], [ 3321736.13130500074476, 2195134.747010899707675 ] ] ] } },
+{ "type": "Feature", "properties": { "DLO": "Dolomías, calizas, calizas ooliticas y nodulosas", "color": "#00a9e6" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3321180.09109371714294, 2195707.671905000694096 ], [ 3321736.13130500074476, 2195707.671905000694096 ], [ 3321736.13130500074476, 2195134.747010899707675 ], [ 3321180.09109371714294, 2195707.671905000694096 ] ] ] } }
+]
+}

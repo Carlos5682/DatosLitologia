@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Salduero",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Conglomerados, areniscas, arenas y margas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3258576.46924, 2180912.576259999070317 ], [ 3261479.132260000798851, 2180912.576259999070317 ], [ 3261479.132260000798851, 2177068.652539999689907 ], [ 3258576.46924, 2177068.652539999689907 ], [ 3258576.46924, 2180912.576259999070317 ] ] ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Alaminos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Conglomerados, areniscas, arenas arcósicas, arcillas, calizas y yesos", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3252528.440099390223622, 2061347.151492066681385 ], [ 3252447.92498809332028, 2061262.123654999770224 ], [ 3245699.626455000601709, 2061262.123654999770224 ], [ 3245699.626455000601709, 2070666.69584499951452 ], [ 3252566.712544999085367, 2070666.69584499951452 ], [ 3252566.712544999085367, 2061374.082713710609823 ], [ 3252528.440099390223622, 2061347.151492066681385 ] ] ] } },
+{ "type": "Feature", "properties": { "DLO": "Conglomerados, gravas, arenas, areniscas, limos y arcillas. Terrazas fluviales y marinas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3252528.440099390223622, 2061347.151492066681385 ], [ 3252566.712544999085367, 2061374.082713710609823 ], [ 3252566.712544999085367, 2061262.123654999770224 ], [ 3252447.92498809332028, 2061262.123654999770224 ], [ 3252528.440099390223622, 2061347.151492066681385 ] ] ] } }
+]
+}

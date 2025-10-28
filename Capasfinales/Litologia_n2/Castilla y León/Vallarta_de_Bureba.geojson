@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Vallarta_de_Bureba",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Calizas arrecifales, calcarenitas y conglomerados. Arcillas con olistolitos", "color": "#ffdb00" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3234220.905370000749826, 2263004.572429999709129 ], [ 3245237.729630000889301, 2263004.572429999709129 ], [ 3245237.729630000889301, 2255047.213570000603795 ], [ 3234220.905370000749826, 2255047.213570000603795 ], [ 3234220.905370000749826, 2263004.572429999709129 ] ] ] } }
+]
+}

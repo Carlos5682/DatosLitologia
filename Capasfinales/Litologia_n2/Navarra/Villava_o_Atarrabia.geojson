@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Villava_o_Atarrabia",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Areniscas silíceas y arcillas", "color": "#ffe6bf" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3373965.2825249992311, 2264366.050709831062704 ], [ 3373965.2825249992311, 2264190.488775 ], [ 3373798.841441810131073, 2264190.488775 ], [ 3373965.2825249992311, 2264366.050709831062704 ] ] ] } },
+{ "type": "Feature", "properties": { "DLO": "Gravas, arenas, arcillas y limos. Aluvial, playas, flechas litorales", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3373798.841441810131073, 2264190.488775 ], [ 3372434.781774999573827, 2264190.488775 ], [ 3372434.781774999573827, 2266129.924325000494719 ], [ 3373965.2825249992311, 2266129.924325000494719 ], [ 3373965.2825249992311, 2264366.050709831062704 ], [ 3373798.841441810131073, 2264190.488775 ] ] ] } }
+]
+}

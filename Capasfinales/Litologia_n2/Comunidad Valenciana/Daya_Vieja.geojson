@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Daya_Vieja",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Gravas, arenas, arcillas y limos. Aluvial, playas, flechas litorales", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3374538.24081499921158, 1737498.214885 ], [ 3377765.44128500064835, 1737498.214885 ], [ 3377765.44128500064835, 1734592.454915000358596 ], [ 3374538.24081499921158, 1734592.454915000358596 ], [ 3374538.24081499921158, 1737498.214885 ] ] ] } }
+]
+}

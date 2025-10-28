@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Corpa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Conglomerados, areniscas, arenas arcósicas, arcillas, calizas y yesos", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3193181.673405000939965, 2026857.925795000279322 ], [ 3202001.350895000621676, 2026857.925795000279322 ], [ 3202001.350895000621676, 2019481.348404999589548 ], [ 3193181.673405000939965, 2019481.348404999589548 ], [ 3193181.673405000939965, 2026857.925795000279322 ] ] ] } }
+]
+}

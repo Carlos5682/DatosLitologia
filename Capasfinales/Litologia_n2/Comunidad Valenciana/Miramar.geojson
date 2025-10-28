@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Miramar",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Conglomerados, gravas, arenas, areniscas, limos y arcillas. Terrazas fluviales y marinas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3438306.954034999478608, 1822913.781865000259131 ], [ 3441681.729464999865741, 1822913.781865000259131 ], [ 3441681.729464999865741, 1820565.463635 ], [ 3438306.954034999478608, 1820565.463635 ], [ 3438306.954034999478608, 1822913.781865000259131 ] ] ] } }
+]
+}

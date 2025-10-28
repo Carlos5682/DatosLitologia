@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Torelló",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Areniscas silíceas y arcillas", "color": "#ffe6bf" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3676377.21472999965772, 2140117.549169999081641 ], [ 3682867.443969998974353, 2140117.549169999081641 ], [ 3682867.443969998974353, 2133256.22482999926433 ], [ 3676377.21472999965772, 2133256.22482999926433 ], [ 3676377.21472999965772, 2140117.549169999081641 ] ] ] } }
+]
+}

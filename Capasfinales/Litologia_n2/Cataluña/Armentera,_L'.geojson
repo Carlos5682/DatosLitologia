@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Armentera,_L'",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Conglomerados, arenas, arrecifes, limos amarillos, yesos y sales haloideas. Conglomerados, arenas y calizas lacus", "color": "#ffdb00" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3746754.711658789776266, 2142358.662363396957517 ], [ 3747555.103972306940705, 2141830.695090000983328 ], [ 3746160.159990001004189, 2141830.695090000983328 ], [ 3746160.159990001004189, 2142899.613784951623529 ], [ 3746754.711658789776266, 2142358.662363396957517 ] ] ] } },
+{ "type": "Feature", "properties": { "DLO": "Gravas, arenas, arcillas y limos. Aluvial, playas, flechas litorales", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3746754.711658789776266, 2142358.662363396957517 ], [ 3746160.159990001004189, 2142899.613784951623529 ], [ 3746160.159990001004189, 2146435.813910000491887 ], [ 3751086.444209998939186, 2146435.813910000491887 ], [ 3751086.444209998939186, 2141830.695090000983328 ], [ 3747555.103972306940705, 2141830.695090000983328 ], [ 3746754.711658789776266, 2142358.662363396957517 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Rajadell",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Turbiditas calcáreas. Calizas, calizas arenosas, areniscas y margas arenosas", "color": "#ffe6bf" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3623923.096235000528395, 2112173.416565 ], [ 3637104.582865000702441, 2112173.416565 ], [ 3637104.582865000702441, 2101762.631635 ], [ 3623923.096235000528395, 2101762.631635 ], [ 3623923.096235000528395, 2112173.416565 ] ] ] } }
+]
+}

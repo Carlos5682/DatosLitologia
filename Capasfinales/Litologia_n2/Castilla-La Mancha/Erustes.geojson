@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Erustes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Calizas arrecifales, calcarenitas y conglomerados. Arcillas con olistolitos", "color": "#ffdb00" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3080912.447715000249445, 1994592.285884999670088 ], [ 3087084.535585000179708, 1994592.285884999670088 ], [ 3087084.535585000179708, 1989527.283514999784529 ], [ 3080912.447715000249445, 1989527.283514999784529 ], [ 3080912.447715000249445, 1994592.285884999670088 ] ] ] } }
+]
+}

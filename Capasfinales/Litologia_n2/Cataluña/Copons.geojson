@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Copons",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Turbiditas calcáreas. Calizas, calizas arenosas, areniscas y margas arenosas", "color": "#ffe6bf" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3604751.223050000146031, 2103542.936550000682473 ], [ 3617201.264550000429153, 2103542.936550000682473 ], [ 3617201.264550000429153, 2095734.0008499994874 ], [ 3604751.223050000146031, 2095734.0008499994874 ], [ 3604751.223050000146031, 2103542.936550000682473 ] ] ] } }
+]
+}

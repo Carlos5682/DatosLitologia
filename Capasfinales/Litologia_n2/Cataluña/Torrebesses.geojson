@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Torrebesses",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Turbiditas calcáreas. Calizas, calizas arenosas, areniscas y margas arenosas", "color": "#ffe6bf" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3530001.9536799993366, 2089157.57302 ], [ 3537870.473319999873638, 2089157.57302 ], [ 3537870.473319999873638, 2079971.756379999220371 ], [ 3530001.9536799993366, 2079971.756379999220371 ], [ 3530001.9536799993366, 2089157.57302 ] ] ] } }
+]
+}

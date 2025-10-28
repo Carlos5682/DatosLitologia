@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Ciutadilla",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Turbiditas calcáreas. Calizas, calizas arenosas, areniscas y margas arenosas", "color": "#ffe6bf" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3578538.801715, 2096757.680285000707954 ], [ 3583881.275885000359267, 2096757.680285000707954 ], [ 3583881.275885000359267, 2088437.3788149994798 ], [ 3578538.801715, 2088437.3788149994798 ], [ 3578538.801715, 2096757.680285000707954 ] ] ] } }
+]
+}

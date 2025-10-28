@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Meliana",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Gravas, arenas, arcillas y limos. Aluvial, playas, flechas litorales", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3428151.880329999141395, 1888292.688269999809563 ], [ 3432715.63667, 1888292.688269999809563 ], [ 3432715.63667, 1884739.679229999892414 ], [ 3428151.880329999141395, 1884739.679229999892414 ], [ 3428151.880329999141395, 1888292.688269999809563 ] ] ] } }
+]
+}

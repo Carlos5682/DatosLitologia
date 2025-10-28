@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Cilleruelo_de_Abajo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Conglomerados, areniscas, arenas arcósicas, arcillas, calizas y yesos", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3172191.77911499934271, 2197803.066485000308603 ], [ 3184374.895385000389069, 2197803.066485000308603 ], [ 3184374.895385000389069, 2187369.558614999521524 ], [ 3172191.77911499934271, 2187369.558614999521524 ], [ 3172191.77911499934271, 2197803.066485000308603 ] ] ] } }
+]
+}

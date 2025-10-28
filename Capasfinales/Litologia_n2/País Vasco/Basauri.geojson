@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Basauri",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Margas y margocalizas. Margas arcillosas turbidíticas. Calizas arenosas, areniscas, arenas y margas.", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3274686.340600000228733, 2328320.223600000608712 ], [ 3279241.155500000808388, 2328320.223600000608712 ], [ 3279241.155500000808388, 2323579.175599999260157 ], [ 3274686.340600000228733, 2323579.175599999260157 ], [ 3274686.340600000228733, 2328320.223600000608712 ] ] ] } }
+]
+}

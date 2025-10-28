@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Yélamos_de_Arriba",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Conglomerados, areniscas, arenas arcósicas, arcillas, calizas y yesos", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3231414.138759999535978, 2046034.236839999444783 ], [ 3239742.866339999251068, 2046034.236839999444783 ], [ 3239742.866339999251068, 2036720.584959999658167 ], [ 3231414.138759999535978, 2036720.584959999658167 ], [ 3231414.138759999535978, 2046034.236839999444783 ] ] ] } }
+]
+}

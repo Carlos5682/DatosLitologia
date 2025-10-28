@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Valdeprado",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Conglomerados, areniscas, arenas y margas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3308986.614590000826865, 2182026.869009999092668 ], [ 3322446.65260999975726, 2182026.869009999092668 ], [ 3322446.65260999975726, 2170377.66009 ], [ 3308986.614590000826865, 2170377.66009 ], [ 3308986.614590000826865, 2182026.869009999092668 ] ] ] } }
+]
+}

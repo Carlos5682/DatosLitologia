@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Llorac",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Turbiditas calcáreas. Calizas, calizas arenosas, areniscas y margas arenosas", "color": "#ffe6bf" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3589194.593275000806898, 2095999.052624999312684 ], [ 3603413.91982499929145, 2095999.052624999312684 ], [ 3603413.91982499929145, 2088027.730475000338629 ], [ 3589194.593275000806898, 2088027.730475000338629 ], [ 3589194.593275000806898, 2095999.052624999312684 ] ] ] } }
+]
+}

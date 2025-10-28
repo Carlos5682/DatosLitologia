@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Paiporta",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Conglomerados, gravas, arenas, areniscas, limos y arcillas. Terrazas fluviales y marinas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3423150.933783892542124, 1877558.769529357552528 ], [ 3422977.5544911804609, 1874743.972885000752285 ], [ 3420908.764085, 1874743.972885000752285 ], [ 3420908.764085, 1878150.831015000818297 ], [ 3423246.064508455339819, 1878150.831015000818297 ], [ 3423150.933783892542124, 1877558.769529357552528 ] ] ] } },
+{ "type": "Feature", "properties": { "DLO": "Gravas, arenas, arcillas y limos. Aluvial, playas, flechas litorales", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3423150.933783892542124, 1877558.769529357552528 ], [ 3423246.064508455339819, 1878150.831015000818297 ], [ 3423740.230914999265224, 1878150.831015000818297 ], [ 3423740.230914999265224, 1874743.972885000752285 ], [ 3422977.5544911804609, 1874743.972885000752285 ], [ 3423150.933783892542124, 1877558.769529357552528 ] ] ] } }
+]
+}

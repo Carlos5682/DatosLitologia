@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Calaf",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Turbiditas calcáreas. Calizas, calizas arenosas, areniscas y margas arenosas", "color": "#ffe6bf" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3607469.000010000541806, 2111410.087789999321103 ], [ 3617325.12758999876678, 2111410.087789999321103 ], [ 3617325.12758999876678, 2106149.880410000681877 ], [ 3607469.000010000541806, 2106149.880410000681877 ], [ 3607469.000010000541806, 2111410.087789999321103 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Terroba",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Conglomerados, areniscas, arenas y margas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3293714.249740000814199, 2216260.56326000019908 ], [ 3299938.866860000416636, 2216260.56326000019908 ], [ 3299938.866860000416636, 2209637.920739999040961 ], [ 3293714.249740000814199, 2209637.920739999040961 ], [ 3293714.249740000814199, 2216260.56326000019908 ] ] ] } }
+]
+}

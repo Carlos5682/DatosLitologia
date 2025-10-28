@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "San_Juan_del_Molinillo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Granitoides biotíticos", "color": "#ff0080" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3058183.000205000396818, 2058332.164595000678673 ], [ 3071941.861295000184327, 2058332.164595000678673 ], [ 3071941.861295000184327, 2047156.087805000832304 ], [ 3058183.000205000396818, 2047156.087805000832304 ], [ 3058183.000205000396818, 2058332.164595000678673 ] ] ] } }
+]
+}

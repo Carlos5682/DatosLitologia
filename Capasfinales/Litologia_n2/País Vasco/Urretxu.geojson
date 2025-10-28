@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "Urretxu",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Margas y arcillas con niveles turbidíticos. Margocalizas y calizas margosas (Capas rojas)", "color": "#9bdfff" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3319762.837287313770503, 2302987.894131085835397 ], [ 3317099.352940000593662, 2304664.04661245085299 ], [ 3317099.352940000593662, 2305835.76516 ], [ 3321312.468459999188781, 2305835.76516 ], [ 3321312.468459999188781, 2302077.116105833556503 ], [ 3319762.837287313770503, 2302987.894131085835397 ] ] ] } },
+{ "type": "Feature", "properties": { "DLO": "Margas y margocalizas. Margas arcillosas turbidíticas. Calizas arenosas, areniscas, arenas y margas.", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3319762.837287313770503, 2302987.894131085835397 ], [ 3321312.468459999188781, 2302077.116105833556503 ], [ 3321312.468459999188781, 2300772.76124 ], [ 3317099.352940000593662, 2300772.76124 ], [ 3317099.352940000593662, 2304664.04661245085299 ], [ 3319762.837287313770503, 2302987.894131085835397 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Pujalt",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Turbiditas calcáreas. Calizas, calizas arenosas, areniscas y margas arenosas", "color": "#ffe6bf" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3601956.094999999273568, 2111993.765199999790639 ], [ 3612723.313799999188632, 2111993.765199999790639 ], [ 3612723.313799999188632, 2102434.348600000608712 ], [ 3601956.094999999273568, 2102434.348600000608712 ], [ 3601956.094999999273568, 2111993.765199999790639 ] ] ] } }
+]
+}

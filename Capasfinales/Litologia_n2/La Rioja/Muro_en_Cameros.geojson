@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Muro_en_Cameros",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "DLO": "Conglomerados, areniscas, arenas y margas", "color": "#e6b300" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3284114.192220001015812, 2213776.632079999428242 ], [ 3290718.830779999028891, 2213776.632079999428242 ], [ 3290718.830779999028891, 2207653.78641999932006 ], [ 3284114.192220001015812, 2207653.78641999932006 ], [ 3284114.192220001015812, 2213776.632079999428242 ] ] ] } }
+]
+}
